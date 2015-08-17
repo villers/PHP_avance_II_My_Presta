@@ -30,14 +30,16 @@
 					</div><!-- .row -->
 				</div><!-- #columns -->
 			</div><!-- .columns-container -->
-			{if isset($HOOK_FOOTER)}
-				<!-- Footer -->
-				<div class="footer-container">
-					<footer id="footer"  class="container">
-						<div class="row">{$HOOK_FOOTER}</div>
-					</footer>
-				</div><!-- #footer -->
-			{/if}
+
+			<div class="footer-container">
+				<footer id="footer"  class="container">
+					<h4 class="row">
+						<a class="contact-uss" href="{$link->getPageLink('contact', true)|escape:'html':'UTF-8'}" title="{l s='Contact us' mod='blockcontact'}">{l s='Contact us' mod='blockcontact'}</a> <br>
+						<small>Web@cademie corporate &copy;</small>
+					</h4>
+				</footer>
+			</div>
+
 		</div><!-- #page -->
 {/if}
 {include file="$tpl_dir./global.tpl"}

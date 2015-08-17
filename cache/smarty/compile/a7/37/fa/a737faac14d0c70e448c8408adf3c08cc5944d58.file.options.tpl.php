@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-08-17 15:36:52
+<?php /* Smarty version Smarty-3.1.19, created on 2015-08-17 16:26:03
          compiled from "/Users/viller_m/rendu/PHP_avance_II_My_Presta/admin94063w1tn/themes/default/template/controllers/preferences/helpers/options/options.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:122626750155d198fcdddec6-30020944%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:31377807155d1eefb3a1f30-65087763%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -17,12 +17,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '122626750155d198fcdddec6-30020944',
+  'nocache_hash' => '31377807155d1eefb3a1f30-65087763',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55d198fd98d4e0_41007270',
   'variables' => 
   array (
     'current_id_lang' => 0,
@@ -54,8 +52,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'hookName' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_55d1eefbe01ed8_94848497',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55d198fd98d4e0_41007270')) {function content_55d198fd98d4e0_41007270($_smarty_tpl) {?><?php if (!is_callable('smarty_function_counter')) include '/Users/viller_m/rendu/PHP_avance_II_My_Presta/tools/smarty/plugins/function.counter.php';
+<?php if ($_valid && !is_callable('content_55d1eefbe01ed8_94848497')) {function content_55d1eefbe01ed8_94848497($_smarty_tpl) {?><?php if (!is_callable('smarty_function_counter')) include '/Users/viller_m/rendu/PHP_avance_II_My_Presta/tools/smarty/plugins/function.counter.php';
 if (!is_callable('smarty_modifier_escape')) include '/Users/viller_m/rendu/PHP_avance_II_My_Presta/tools/smarty/plugins/modifier.escape.php';
 if (!is_callable('smarty_modifier_replace')) include '/Users/viller_m/rendu/PHP_avance_II_My_Presta/tools/smarty/plugins/modifier.replace.php';
 ?>

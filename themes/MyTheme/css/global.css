@@ -7244,6 +7244,11 @@ div.star a:hover {
 .ie8 .breadcrumb .navigation-pipe {
     width: 20px; }
 
+.contact-uss {
+    padding-top: 40px;
+    display: inline-block;
+}
+
 .footer-container {
     background-color: #333;
     position:fixed;

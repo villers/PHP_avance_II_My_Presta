@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-08-17 09:55:30
+<?php /* Smarty version Smarty-3.1.19, created on 2015-08-17 16:44:09
          compiled from "/Users/viller_m/rendu/PHP_avance_II_My_Presta/admin94063w1tn/themes/default/template/helpers/tree/tree_node_folder_checkbox.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:118447495155d19372114ab8-40758218%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:130778451455d1f3393110e3-88882454%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '724a7d5d9adce99320a04a5b3762fded84c59894' => 
     array (
       0 => '/Users/viller_m/rendu/PHP_avance_II_My_Presta/admin94063w1tn/themes/default/template/helpers/tree/tree_node_folder_checkbox.tpl',
-      1 => 1436343200,
+      1 => 1439818289,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '118447495155d19372114ab8-40758218',
+  'nocache_hash' => '130778451455d1f3393110e3-88882454',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55d1937219a743_95237981',
+  'unifunc' => 'content_55d1f33938cec1_30881034',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55d1937219a743_95237981')) {function content_55d1937219a743_95237981($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include '/Users/viller_m/rendu/PHP_avance_II_My_Presta/tools/smarty/plugins/modifier.escape.php';
+<?php if ($_valid && !is_callable('content_55d1f33938cec1_30881034')) {function content_55d1f33938cec1_30881034($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include '/Users/viller_m/rendu/PHP_avance_II_My_Presta/tools/smarty/plugins/modifier.escape.php';
 ?>
 <li class="tree-folder">
 	<span class="tree-folder-name<?php if (isset($_smarty_tpl->tpl_vars['node']->value['disabled'])&&$_smarty_tpl->tpl_vars['node']->value['disabled']==true) {?> tree-folder-name-disable<?php }?>">
