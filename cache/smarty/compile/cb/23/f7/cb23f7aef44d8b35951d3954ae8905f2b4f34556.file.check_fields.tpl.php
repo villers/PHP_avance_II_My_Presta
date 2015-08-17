@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-08-17 09:55:25
+<?php /* Smarty version Smarty-3.1.19, created on 2015-08-17 15:35:28
          compiled from "/Users/viller_m/rendu/PHP_avance_II_My_Presta/admin94063w1tn/themes/default/template/controllers/products/multishop/check_fields.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:89770558955d1936d776482-95295804%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'cb23f7aef44d8b35951d3954ae8905f2b4f34556' => 
     array (
       0 => '/Users/viller_m/rendu/PHP_avance_II_My_Presta/admin94063w1tn/themes/default/template/controllers/products/multishop/check_fields.tpl',
-      1 => 1436343200,
+      1 => 1439818289,
       2 => 'file',
     ),
   ),
@@ -15,14 +15,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_55d1936d7c8c50_16906288',
   'variables' => 
   array (
     'display_multishop_checkboxes' => 0,
     'product_tab' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55d1936d7c8c50_16906288',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_55d1936d7c8c50_16906288')) {function content_55d1936d7c8c50_16906288($_smarty_tpl) {?>
 

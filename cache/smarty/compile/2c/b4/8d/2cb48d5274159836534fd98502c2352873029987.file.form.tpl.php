@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-08-17 09:55:25
+<?php /* Smarty version Smarty-3.1.19, created on 2015-08-17 15:35:28
          compiled from "/Users/viller_m/rendu/PHP_avance_II_My_Presta/admin94063w1tn/themes/default/template/controllers/products/helpers/form/form.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:169561393255d1936da23c91-02266015%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,19 +7,19 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '2cb48d5274159836534fd98502c2352873029987' => 
     array (
       0 => '/Users/viller_m/rendu/PHP_avance_II_My_Presta/admin94063w1tn/themes/default/template/controllers/products/helpers/form/form.tpl',
-      1 => 1436343200,
+      1 => 1439818289,
       2 => 'file',
     ),
     '145d46abc2b4ec824425b53552881ee69062e584' => 
     array (
       0 => '/Users/viller_m/rendu/PHP_avance_II_My_Presta/admin94063w1tn/themes/default/template/helpers/form/form.tpl',
-      1 => 1436343200,
+      1 => 1439818289,
       2 => 'file',
     ),
     '4ab5d4e97a58f049ae68b4f5175cd78f9c4ae06d' => 
     array (
       0 => '/Users/viller_m/rendu/PHP_avance_II_My_Presta/admin94063w1tn/themes/default/template/helpers/form/form_group.tpl',
-      1 => 1436343200,
+      1 => 1439818289,
       2 => 'file',
     ),
   ),
@@ -27,6 +27,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_55d1936f4bc9b6_53256443',
   'variables' => 
   array (
     'fields' => 0,
@@ -78,8 +80,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'use_textarea_autosize' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55d1936f4bc9b6_53256443',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_55d1936f4bc9b6_53256443')) {function content_55d1936f4bc9b6_53256443($_smarty_tpl) {?><?php if (!is_callable('smarty_function_counter')) include '/Users/viller_m/rendu/PHP_avance_II_My_Presta/tools/smarty/plugins/function.counter.php';
 ?>
@@ -561,9 +561,9 @@ $_smarty_tpl->tpl_vars['language']->_loop = true;
 	</script>
 <?php }?>
 <?php }} ?>
-<?php /* Smarty version Smarty-3.1.19, created on 2015-08-17 09:55:26
+<?php /* Smarty version Smarty-3.1.19, created on 2015-08-17 15:35:29
          compiled from "/Users/viller_m/rendu/PHP_avance_II_My_Presta/admin94063w1tn/themes/default/template/helpers/form/form_group.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_55d1936ec9cf13_35101089')) {function content_55d1936ec9cf13_35101089($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_55d1e32166c693_30172129')) {function content_55d1e32166c693_30172129($_smarty_tpl) {?>
 
 <?php if (count($_smarty_tpl->tpl_vars['groups']->value)&&isset($_smarty_tpl->tpl_vars['groups']->value)) {?>
 <div class="row">
