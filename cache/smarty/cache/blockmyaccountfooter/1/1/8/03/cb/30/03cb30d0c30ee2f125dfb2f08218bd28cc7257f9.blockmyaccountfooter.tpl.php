@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '163017921655d198c440ac61-74459341',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55d19d1c9adca8_82646357',
+  'unifunc' => 'content_55d1d4a1499320_94234844',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55d19d1c9adca8_82646357')) {function content_55d19d1c9adca8_82646357($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_55d1d4a1499320_94234844')) {function content_55d1d4a1499320_94234844($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="http://localhost/rendu/PHP_avance_II_My_Presta/mon-compte" title="Gérer mon compte client" rel="nofollow">Mon compte</a></h4>

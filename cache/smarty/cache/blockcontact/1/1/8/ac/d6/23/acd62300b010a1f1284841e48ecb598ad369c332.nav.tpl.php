@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '45202894255d198c4b68199-69089385',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55d19d1cb86899_06612144',
+  'unifunc' => 'content_55d1d4a15d4cf2_38752218',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55d19d1cb86899_06612144')) {function content_55d19d1cb86899_06612144($_smarty_tpl) {?><div id="contact-link" >
+<?php if ($_valid && !is_callable('content_55d1d4a15d4cf2_38752218')) {function content_55d1d4a15d4cf2_38752218($_smarty_tpl) {?><div id="contact-link" >
 	<a href="http://localhost/rendu/PHP_avance_II_My_Presta/nous-contacter" title="Contactez-nous">Contactez-nous</a>
 </div>
 	<span class="shop-phone">

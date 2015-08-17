@@ -231,7 +231,11 @@ table {
 
 html {
     font-size: 62.5%;
-    -webkit-tap-highlight-color: transparent; }
+    -webkit-tap-highlight-color: transparent; 
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
 
 body {
     font-family: Arial, Helvetica, sans-serif;
@@ -5707,7 +5711,9 @@ body {
     height: 100%;
     line-height: 18px;
     font-size: 13px;
-    color: #777; }
+    color: #777; 
+    min-height: 100%;
+}
 body.content_only {
     background: none; }
 
@@ -5718,7 +5724,15 @@ textarea {
     z-index: 5003; }
 
 .columns-container {
-    background: #228B22;
+    background-color: #F7F7F7;
+    background: url(../img/background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: absolute;
+    height: 100%;
+    width: 100%;
 }
 
 #columns {
@@ -5726,7 +5740,9 @@ textarea {
     padding-bottom: 50px;
     padding-top: 15px;
     padding-left: 18px;
+    padding-right: 18px;
     background-color: #FFFFFF;
+    position: relative;
 }
 
 #index .tab-content {
@@ -7229,10 +7245,13 @@ div.star a:hover {
     width: 20px; }
 
 .footer-container {
-    background-color: #333; }
-@media (min-width: 768px) {
-    .footer-container {
-        background: url(../img/footer-bg.png) repeat-x #333; } }
+    background-color: #333;
+    position:fixed;
+   left:0px;
+   bottom:0px;
+    height: 100px;
+   width:100%;
+}
 .footer-container .container {
     padding-bottom: 100px; }
 .footer-container #footer {

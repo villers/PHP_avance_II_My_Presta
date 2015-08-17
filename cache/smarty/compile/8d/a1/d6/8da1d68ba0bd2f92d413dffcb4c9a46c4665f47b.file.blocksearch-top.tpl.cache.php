@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-08-17 10:18:09
+<?php /* Smarty version Smarty-3.1.19, created on 2015-08-17 14:30:45
          compiled from "/Users/viller_m/rendu/PHP_avance_II_My_Presta/themes/MyTheme/modules/blocksearch/blocksearch-top.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:40621675055d198c1dd2607-94202961%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '8da1d68ba0bd2f92d413dffcb4c9a46c4665f47b' => 
     array (
       0 => '/Users/viller_m/rendu/PHP_avance_II_My_Presta/themes/MyTheme/modules/blocksearch/blocksearch-top.tpl',
-      1 => 1439799392,
+      1 => 1439814643,
       2 => 'file',
     ),
   ),
@@ -15,14 +15,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_55d198c1dfee40_59890973',
   'variables' => 
   array (
     'link' => 0,
     'search_query' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55d198c1dfee40_59890973',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_55d198c1dfee40_59890973')) {function content_55d198c1dfee40_59890973($_smarty_tpl) {?>
 <!-- Block search module TOP -->
@@ -35,7 +36,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		<input class="search_query form-control" type="text" id="search_query_top" name="search_query" placeholder="<?php echo smartyTranslate(array('s'=>'Search','mod'=>'blocksearch'),$_smarty_tpl);?>
 " value="<?php echo stripslashes(mb_convert_encoding(htmlspecialchars($_smarty_tpl->tpl_vars['search_query']->value, ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8'));?>
 " />
-		<button type="submit" name="submit_search" class="btn btn-default button-search">
+		<button type="submit" name="submit_search" class="btn btn-sm btn-default button-search">
 			<span><?php echo smartyTranslate(array('s'=>'Search','mod'=>'blocksearch'),$_smarty_tpl);?>
 </span>
 		</button>
