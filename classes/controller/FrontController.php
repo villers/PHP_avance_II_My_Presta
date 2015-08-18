@@ -983,6 +983,7 @@ class FrontControllerCore extends Controller
 
 		// Execute Hook FrontController SetMedia
 		Hook::exec('actionFrontControllerSetMedia', array());
+		$this->addCSS(_THEME_CSS_DIR_.'bootstrap.css', 'all');
 
 		return true;
 	}

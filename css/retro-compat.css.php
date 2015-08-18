@@ -67,5 +67,5 @@ if ($file == 'datepicker.css')
 	$html = file_get_contents($css_folder.'ui/themes/base/jquery.ui.theme.css');
 	$html .= file_get_contents($css_folder.'ui/themes/base/jquery.ui.datepicker.css');
 	$html = str_replace('url(images', 'url(../ui/themes/base/images', $html);
-}	
+}
 echo $html ;

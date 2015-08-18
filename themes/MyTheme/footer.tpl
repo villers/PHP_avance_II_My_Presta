@@ -34,7 +34,7 @@
 			<div class="footer-container">
 				<footer id="footer"  class="container">
 					<h4 class="row">
-						<a class="contact-uss" href="{$link->getPageLink('contact', true)|escape:'html':'UTF-8'}" title="{l s='Contact us' mod='blockcontact'}">{l s='Contact us' mod='blockcontact'}</a> <br>
+						<a class="contact-uss" href="{$link->getPageLink('contact', true)|escape:'html':'UTF-8'}" title="{l s='Contact us' mod='blockcontact'}">{l s='Contact us' mod='blockcontact'}</a> | <a class="contact-uss" href="http://opensource.org/licenses/MIT" title="MIT">License MIT</a> <br>
 						<small>Web@cademie corporate &copy;</small>
 					</h4>
 				</footer>
