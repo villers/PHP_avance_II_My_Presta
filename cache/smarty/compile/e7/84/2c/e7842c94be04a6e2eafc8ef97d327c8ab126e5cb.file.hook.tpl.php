@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-08-17 15:54:12
+<?php /* Smarty version Smarty-3.1.19, created on 2015-08-18 10:47:34
          compiled from "/Users/viller_m/rendu/PHP_avance_II_My_Presta/modules/themeconfigurator/views/templates/hook/hook.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:160758425755d1e784112678-63459692%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:73886439855d2f126c852d1-43079895%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'e7842c94be04a6e2eafc8ef97d327c8ab126e5cb' => 
     array (
       0 => '/Users/viller_m/rendu/PHP_avance_II_My_Presta/modules/themeconfigurator/views/templates/hook/hook.tpl',
-      1 => 1439818290,
+      1 => 1439886580,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '160758425755d1e784112678-63459692',
+  'nocache_hash' => '73886439855d2f126c852d1-43079895',
   'function' => 
   array (
   ),
@@ -25,12 +25,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55d1e784222bd7_25363079',
+  'unifunc' => 'content_55d2f126da8b70_39366127',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55d1e784222bd7_25363079')) {function content_55d1e784222bd7_25363079($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_55d2f126da8b70_39366127')) {function content_55d2f126da8b70_39366127($_smarty_tpl) {?>
 <?php if (isset($_smarty_tpl->tpl_vars['htmlitems']->value)&&$_smarty_tpl->tpl_vars['htmlitems']->value) {?>
 <div id="htmlcontent_<?php echo mb_convert_encoding(htmlspecialchars($_smarty_tpl->tpl_vars['hook']->value, ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8');?>
-">
+"<?php if ($_smarty_tpl->tpl_vars['hook']->value=='footer') {?> class="footer-block col-xs-12 col-sm-4"<?php }?>>
 	<ul class="htmlcontent-home clearfix row">
 		<?php  $_smarty_tpl->tpl_vars['hItem'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['hItem']->_loop = false;
  $_from = $_smarty_tpl->tpl_vars['htmlitems']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
