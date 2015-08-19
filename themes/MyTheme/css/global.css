@@ -5723,16 +5723,7 @@ textarea {
 #header {
     z-index: 5003; }
 
-.columns-container {
-    background-color: #F7F7F7;
-    background: url(../img/background.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    position: static;
-    height: 100%;
-    width: 100%;
+.columns-container { 
 }
 
 #columns {
@@ -5741,7 +5732,7 @@ textarea {
     padding-top: 15px;
     padding-left: 18px;
     padding-right: 18px;
-    background-color: #FFFFFF;
+    background-color: #FFF;
     position: relative;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }

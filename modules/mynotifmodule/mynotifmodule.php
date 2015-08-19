@@ -150,9 +150,6 @@ class MyNotifmodule extends Module
 
 	public function hookDisplayHome($params)
 	{
-		$this->context->controller->addCSS($this->_path.'front.css');
-		$this->context->controller->addJS($this->_path.'front.js');
-
 		!isset($params['tpl']) && $params['tpl'] = 'hookHome';
 
 		$config = Tools::jsonDecode(Configuration::get($this->name), true);
