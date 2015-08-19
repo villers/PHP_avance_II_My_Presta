@@ -69,7 +69,10 @@
 				<p>{l s='You cannot place a new order from your country.'}{if isset($geolocation_country) && $geolocation_country} <span class="bold">{$geolocation_country|escape:'html':'UTF-8'}</span>{/if}</p>
 			</div>
 		{/if}
-		{hook h='displayHome' mod='mynotifmodule'}
+		{if (Module::isInstalled('mynotifmodule'))}
+			{hook h='displayHome' mod='mynotifmodule'}
+		{/if}
+
 		<div id="page">
 			<div class="header-container">
 				<header id="header">

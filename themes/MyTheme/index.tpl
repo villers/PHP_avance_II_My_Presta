@@ -22,6 +22,9 @@
 *  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 *}
+{if (Module::isInstalled('myyoutubemodule'))}
+{hook h='displayHome' mod='myyoutubemodule'}
+{/if}
 {if isset($HOOK_HOME_TAB_CONTENT) && $HOOK_HOME_TAB_CONTENT|trim}
     {if isset($HOOK_HOME_TAB) && $HOOK_HOME_TAB|trim}
         <ul id="home-page-tabs" class="nav nav-tabs clearfix">
