@@ -76,13 +76,6 @@
 		<div id="page">
 			<div class="header-container">
 				<header id="header">
-					<div class="nav">
-						<div class="container">
-							<div class="row">
-								<nav>{hook h="displayNav"}</nav>
-							</div>
-						</div>
-					</div>
 					<div>
 						<div class="container">
 							<div class="row">

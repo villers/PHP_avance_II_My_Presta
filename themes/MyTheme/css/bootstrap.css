@@ -7031,7 +7031,8 @@ button.close {
 body {
   -webkit-font-smoothing: antialiased;
   letter-spacing: .1px;
-  background-color: #F7F7F7;     background: url(../img/background.jpg) no-repeat center center fixed;     -webkit-background-size: cover;     -moz-background-size: cover;     -o-background-size: cover;     background-size: cover;
+  background-color: #F7F7F7;     
+  background: url(../img/background.jpg) no-repeat center center fixed;     -webkit-background-size: cover;     -moz-background-size: cover;     -o-background-size: cover;     background-size: cover;
 }
 p {
   margin: 0 0 1em;

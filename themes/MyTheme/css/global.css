@@ -5744,7 +5744,7 @@ textarea {
 header {
     z-index: 1;
     position: relative;
-    background: #DAA520;
+    /* background: #DAA520; */
     padding-bottom: 15px; }
 header .banner {
     background: black;
@@ -7142,7 +7142,7 @@ div.star a:hover {
     color: #333; }
 
 .header-container {
-    background: #fff; }
+    /* background: #fff; */ }
 
 .breadcrumb {
     display: inline-block;
@@ -8573,5 +8573,10 @@ div.star.star_hover:after {
 
 .pointer-box {
     cursor: pointer; }
+
+#mynotifmodule {
+    background-color: #EEE;
+    border: solid 1px #000;
+}
 
 /*# sourceMappingURL=global.css.map */
