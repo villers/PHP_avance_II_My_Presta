@@ -13,12 +13,362 @@
 	<atom:link href="http://www.prestashop.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.prestashop.com/blog/fr</link>
 	<description></description>
-	<lastBuildDate>Mon, 10 Aug 2015 23:00:18 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Aug 2015 09:18:06 +0000</lastBuildDate>
 	<language>fr-FR</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=3.8.1</generator>
 	<item>
+		<title>5 signes qui prouvent que PrestaShop est fait pour vous</title>
+		<link>https://www.prestashop.com/blog/fr/5-signes-prestashop-fait-pour-vous/</link>
+		<comments>https://www.prestashop.com/blog/fr/5-signes-prestashop-fait-pour-vous/#comments</comments>
+		<pubDate>Mon, 24 Aug 2015 09:09:16 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19304</guid>
+		<description><![CDATA[<p>Que vous cherchiez à lancer une boutique en ligne pour la première fois ou que vous songiez à migrer vers une nouvelle solution, vous vous poserez peut-être la question suivante : « PrestaShop est-il fait pour moi ? » Une réponse simple et rapide serait : « Bien sûr, PrestaShop est fait pour tout le [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/5-signes-prestashop-fait-pour-vous/">5 signes qui prouvent que PrestaShop est fait pour vous</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Que vous cherchiez à lancer une boutique en ligne pour la première fois ou que vous songiez à migrer vers une nouvelle solution, vous vous poserez peut-être la question suivante : « PrestaShop est-il fait pour moi ? » Une réponse simple et rapide serait : « Bien sûr, PrestaShop est fait pour tout le monde ! »</p>
+<p>Dès le départ, nous avons conçu PrestaShop comme un logiciel accessible et facile à utiliser, et nous travaillons dur pour y parvenir. Toutefois, travaillant chez PrestaShop depuis presque deux ans, j’ai découvert que PrestaShop fonctionne mieux pour certains marchands que d’autres. Aujourd’hui, je vais présenter 5 signes qui vous aideront à déterminer si PrestaShop est fait pour vous.<br />
+<span id="more-19304"></span></p>
+<h2>1. Vous aimeriez vendre des produits en ligne.</h2>
+<p>En tant que développeur d’un logiciel e-commerce, notre principal objectif est d’aider les marchands à vendre leurs produits. Lorsque nous ajoutons de nouvelles fonctionnalités, nous cherchons toujours à améliorer les activités de nos e-commerçants. Nous travaillons en étroite collaboration avec notre communauté (développeurs et marchands) afin d’obtenir des retours constants sur les nouvelles fonctionnalités qu’elle aimerait voir être ajoutées.</p>
+<p>Si vous n’avez <strong>pas</strong> l’intention de vendre des produits en ligne, vous pouvez quand même tirer parti de la plateforme de PrestaShop. Les entreprises souhaitant développer une présence en ligne peuvent facilement le faire grâce à notre plateforme. C’est un excellent moyen de faire du buzz et de susciter un engouement pour vos produits, sans avoir à gérer la partie e-commerce de l’activité pour l’instant. Une fois que vous êtes prêt à vendre vos produits en ligne, il est très simple de passer d’une vitrine à une boutique à part entière. Jetez un œil au catalogue de produits de <a href="http://www.jennifertaylorhome.com/" target="_blank">Jennifer Taylor Home</a>, qui a été créé à l’aide du logiciel PrestaShop.</p>
+<h2>2. Vous souhaitez maîtriser les coûts ou disposez d’un budget limité.</h2>
+<p>Il n’y a rien de pire que devoir compter son argent avant même de commencer à vendre des produits. Malheureusement, les affaires marchent ainsi. Afin de vous aider à limiter vos dépenses, notre logiciel est entièrement gratuit. Il n’est pas gratuit pendant 30 jours ou pour vos 100 premiers produits. Il est simplement&#8230; gratuit.</p>
+<p>Même si vous avez le budget nécessaire pour engager un développeur, ce dernier peut facilement et rapidement vous créer une boutique sur mesure grâce à notre logiciel léger et à son environnement basé sur des modules. Il peut également utiliser des thèmes prédéfinis pour réduire encore davantage les délais de développement. Ces deux facteurs contribuent à diminuer le nombre d’heures de développement dans lesquelles vous devez investir, ce qui vous fait économiser de l’argent.</p>
+<h2>3. Vous aimez les options de paiement et d’expédition.</h2>
+<p>PrestaShop ne travaille pas seul, bien au contraire. Nous collaborons avec d’autres grands noms du e-commerce, notamment dans le domaine des solutions d’expédition et de paiement. En nous associant à des partenaires industriels, nous pouvons proposer des modules gratuits qui relient leurs services à votre back-office PrestaShop. De plus, nous travaillons avec de nombreux partenaires issus du même secteur afin de vous offrir une multitude d’options parmi lesquelles vous pouvez faire votre choix.</p>
+<p>Si vous n’êtes pas convaincu par un service en particulier, notre <a href="http://addons.prestashop.com/" target="_blank">équipe de marchands spécialisés</a> est disponible pour vous aider à trouver la solution adaptée pour votre activité.</p>
+<h2>4. Vous êtes féru d’informatique.</h2>
+<p>Le principal avantage lorsque vous utilisez une plateforme open source est que vous bénéficiez d’un accès complet au code du logiciel. Si vous venez d’un milieu technique, vous comprenez la liberté que cela vous donne en termes de personnalisation : vous pouvez créer la boutique rêvée, parfaitement adaptée à vos besoins.</p>
+<p>Toutefois, pas d’inquiétude si vous n’êtes pas féru d’informatique : nous avons tout prévu. Je vous conseille de découvrir notre version PrestaShop Cloud. Il s’agit du même logiciel fabuleux que nous partageons avec la communauté, mais il est hébergé gratuitement. Le seul inconvénient est que vous disposez d’un accès limité au code source, et vous pouvez uniquement utiliser les modules qui ont été approuvés par PrestaShop Addons afin de limiter les risques aux autres boutiques que nous hébergeons.</p>
+<h2>5. Vous cherchez à créer et développer votre entreprise.</h2>
+<p>Si vous avez besoin d’une boutique en ligne pour quelques jours, par exemple si vous songez à ouvrir une boutique éphémère, cela ne vaut peut-être pas le coup de consacrer tout votre temps et vos efforts à configurer un site de A à Z. La plupart des fonctionnalités proposées dans PrestaShop sont destinées aux marchands qui souhaitent créer une entreprise. Prenez, par exemple, notre tableau de bord analytique : en un clin d’œil, vous pouvez connaître les performances de votre boutique sur une semaine, un mois ou même un an. N’importe quel étudiant en maths vous dira que les statistiques sont utiles uniquement lorsqu’elles sont compilées à l’aide de données collectées pendant un certain temps.</p>
+<p>Ce n’est qu’une des nombreuses fonctionnalités conçues pour les marchands sérieux. En voici quelques autres :</p>
+<ul>
+<li>un identifiant différent pour chaque membre de votre équipe, avec un ensemble d’autorisations uniques</li>
+<li>des profils clients et leurs historiques de commandes</li>
+<li>la gestion et l’analyse des fabricants et des fournisseurs</li>
+<li>le suivi des paniers abandonnés pour accroître les ventes au fil du temps</li>
+<li>des fonctionnalités de localisation pour augmenter les ventes à l’international</li>
+</ul>
+<p>Cela ne veut pas dire que PrestaShop n’est pas fait pour vous si vous dirigez une petite entreprise. Grâce au back-office convivial, il n’a jamais été aussi simple de configurer votre boutique. Nous ne vous en voudrons pas si vous avez envie d’utiliser PrestaShop, même pour quelques jours. <img src="https://www.prestashop.com/blog/fr/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> </p>
+<h4>Ce qu’il faut retenir</h4>
+<p>PrestaShop a beau être gratuit, cela ne veut pas dire que c’est la solution adaptée pour tous. Les marchands qui rencontrent le plus de succès avec PrestaShop sont ceux qui remplissent la majorité des critères suivants :</p>
+<ol>
+<li>Vous aimeriez vendre des produits en ligne.</li>
+<li>Vous souhaitez maîtriser les coûts ou disposez d’un budget limité.</li>
+<li>Vous aimez les options de paiement et d’expédition.</li>
+<li>Vous êtes féru d’informatique.</li>
+<li>Vous cherchez à créer et développer votre entreprise.</li>
+</ol>
+<hr />
+<p>Ces 5 signes indiquent-ils que vous devriez lancer votre boutique avec PrestaShop ? Si oui, qu’attendez-vous ? Créez un compte PrestaShop en quelques secondes, puis lancez votre propre site e-commerce.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/5-signes-prestashop-fait-pour-vous/">5 signes qui prouvent que PrestaShop est fait pour vous</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/5-signes-prestashop-fait-pour-vous/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Audit de boutique – 100% Football</title>
+		<link>https://www.prestashop.com/blog/fr/audit-boutique-100-football/</link>
+		<comments>https://www.prestashop.com/blog/fr/audit-boutique-100-football/#comments</comments>
+		<pubDate>Fri, 21 Aug 2015 09:12:15 +0000</pubDate>
+		<dc:creator><![CDATA[Cécile Dubouis]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19290</guid>
+		<description><![CDATA[<p>Cette semaine, direction l’Espagne ! (…avec une dédicace toute spéciale à l’équipe de football de PrestaShop). On refait le match avec Futbolcienporcien.com, une boutique en ligne madrilène dédiée à l’univers du ballon rond, proposant également des personnalisations de produits. Navigation Les + : Avec un logo très explicite sur son activité, Futbolcienporcien nous accueille dans [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/audit-boutique-100-football/">Audit de boutique – 100% Football</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Cette semaine, direction l’Espagne ! (…avec une dédicace toute spéciale à l’équipe de football de PrestaShop).<br />
+On refait le match avec <a href="http://www.futbolcienporcien.com" target="_blank">Futbolcienporcien.com</a>, une boutique en ligne madrilène dédiée à l’univers du ballon rond, proposant également des personnalisations de produits.<br />
+<span id="more-19290"></span></p>
+<h2 style="color: #E0801C">Navigation</h2>
+<h4 style="color: #E0801C">Les + :</h4>
+<p>Avec un logo très explicite sur son activité, Futbolcienporcien nous accueille dans un univers épuré, présentant en page d’accueil des visuels très qualitatifs. La première impression donnée aux visiteurs est excellente !<br />
+De plus, cette boutique en ligne est intégralement responsive, donc adaptée à tous les internautes, et optimale pour le référencement sur mobile.</p>
+<h4 style="color: #E0801C">Les axes d’optimisation :</h4>
+<ul style="padding-left:30px">
+<li><strong>Barre de recherche très visible</strong></li>
+</ul>
+<p>Actuellement, le site propose une recherche qui s’affiche uniquement lors du survol sur la loupe.<br />
+La barre de recherche est un élément primordial d’une boutique e-commerce qui a de nombreux articles, comme c’est le cas ici.</p>
+<p><i style="color: #5B9BD5;">En plus d’augmenter vos conversions, <a href="http://addons.prestashop.com/fr/354-recherche" target="_blank">un moteur de recherche efficace</a> un moteur de recherche efficace vous donne de nombreuses informations sur ce que souhaitent vos visiteurs, ce qui vous permettra de retravailler vos mots-clés pour optimiser votre référencement, commander les produits les plus recherchés pour coller à leurs attentes, et donc augmenter la satisfaction de vos clients.</i></p>
+<p>Toutes les données se trouveront dans Google Analytics (Comportement / Recherche sur site / Termes de recherche). </p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/08/futbol-analytics.png" /></p>
+<p>Ensuite, terme par terme, vous pourrez vérifier l’évolution du taux de conversion sur chaque mot.</p>
+<ul style="padding-left:30px">
+<li><strong>Des boutons d’action très clairs</strong></li>
+</ul>
+<p>Lorsque que je survole un produit, j’aperçois 4 icônes différentes : un œil, une loupe avec un +, et sous le visuel : un cœur, et une double flèche.<br />
+Le problème des icônes seules est qu’elles ne sont pas toujours parlantes. Et là survient un problème majeur : je dois réfléchir en plein shopping&#8230; « Sur quelle icône dois-je cliquer ? ».</p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/08/futbol-cta.png" /></p>
+<p><i style="color: #5B9BD5;"><strong>Clarifiez au maximum les icônes de votre boutique</strong>, n’hésitez pas à ajouter un complément en texte, ou à guider vos visiteurs avec des couleurs différentes selon les actions que vous souhaitez privilégier.</i></p>
+<ul style="padding-left:30px">
+<li><strong>Vitesse de chargement du site</strong></li>
+</ul>
+<p>Dès le premier clic sur un produit, le site met de longues secondes à nous dévoiler la page attendue. Lors de mon test –cela peut bien sûr évoluer- le temps de chargement d’une page est de 4,57 secondes. C’est un risque majeur de perdre des visiteurs qui étaient intéressés par vos produits, donc de possibles acheteurs.</p>
+<p><i style="color: #5B9BD5;"><strong>57% des internautes quittent un site s’il met + de 3 secondes à s’afficher</strong>. Et parmi eux, 80% ne reviendront jamais. En optimisant le temps de chargement de vos pages, vous faciliterez les conversions sur votre boutique comme votre référencement naturel !</i></p>
+<p>N’hésitez pas à exploiter la mise en cache du navigateur. Pour cela, rendez-vous dans l’onglet <strong>Paramètres avancés / Performances</strong> :</p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/08/prestashop-performance-tab.png" /></p>
+<p>Cache, concaténation, compression, serveur de média… Retrouvez tous les outils à paramétrer. Côté conseils, je vous recommande vivement de vous reporter à la <a href="http://doc.prestashop.com/pages/viewpage.action?pageId=20840893" target="_blank">documentation PrestaShop pour optimiser les performances de votre boutique en ligne</a></p>
+<p>Cela ne suffit pas ? <a href="http://addons.prestashop.com/fr/231-cache" target="_blank">Plusieurs modules de gestion de cache</a> vous permettent d’afficher vos pages deux fois plus rapidement, tout en réduisant la charge sur le serveur. N’hésitez pas, ces modules additionnels sont plébiscités par les e-commerçants !</p>
+<p>Pensez également à optimiser la taille des images que vous utilisez. Vous pouvez vous aider de <a href="https://imageoptim.com/" target="_blank">https://imageoptim.com/</a> pour Mac et <a href="http://psydk.org/pngoptimizer" target="_blank">http://psydk.org/pngoptimizer</a> pour Windows.</p>
+<p>Si les solutions proposées au-dessus ne sont pas assez satisfaisantes sur votre boutique, n’hésitez pas à contacter directement votre hébergeur, pour qu’il vous conseille sur le type de serveur le plus adapté à vos besoins.</p>
+<ul style="padding-left:30px">
+<li><strong>Lisibilité</strong></li>
+</ul>
+<p>La plupart des textes (des noms des catégories, aux titres produits en passant par les descriptifs) sont en majuscules. Or les écrits en lettres minuscules sont beaucoup plus lisibles, l’internaute n’a aucun effort à fournir pour les lire contrairement aux majuscules.</p>
+<p><i style="color: #5B9BD5;"><strong>Privilégiez les lettres minuscules pour l’ensemble des contenus de votre site pour faciliter la lecture</strong>, et utilisez si vous le souhaitez les majuscules seulement sur certains boutons d’actions, pour les différencier du reste du site.</i></p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/08/futbol-readability.png" /></p>
+<p>D’autre part, dans l’exemple ci-dessous, le visuel est très clair et l’on repère aisément le bloc d’inscription à la newsletter. En revanche le lien vers Twitter et celui d’abonnement au flux RSS semblent bien cachés : </p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/08/futbol-brand.png" /></p>
+<p><i style="color: #5B9BD5;">Lorsque vous utilisez une image en fond, choisissez une <strong>couleur de texte et de boutons d’action qui sera lisible sur toutes les parties de l’image.</strong> Sinon, utilisez une image dont l’opacité ne sera pas de 100% (mais plutôt de 60% à 70%), avec un texte foncé.</i></p>
+<ul style="padding-left:30px">
+<li><strong>Panier : nombre de produits ou montant à payer ?</strong></li>
+</ul>
+<p>Le panier est très clair et facilement accessible.<br />
+En revanche, il rappelle sans cesse le prix à payer, même lorsqu’il est replié.<br />
+On retrouve la même problématique sur la fenêtre de confirmation d’ajout au panier :</p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/08/futbol-add-cart.png" /></p>
+<p>Sur cette fenêtre, le montant des frais de port y est même indiqué. Or le prix total et les frais de port sont autant d’éléments qui peuvent dissuader votre client de finaliser ses achats. Laissez-lui le plaisir de naviguer d’article en article sans le stresser !<br />
+Sur cette fenêtre modale, privilégiez des suggestions d’articles supplémentaires à ajouter en un clic au panier, comme le propose le <a href="http://addons.prestashop.com/fr/modules-processus-de-commande/2412-cross-selling-on-cart.html" target="_blank">module Cross Selling on Cart</a>.</p>
+<p><i style="color: #5B9BD5;">Sur le raccourci panier ainsi que sur la fenêtre de confirmation d’ajout au panier, <strong>affichez si vous le pouvez uniquement le nombre de produits présents au panier</strong> non le montant total des achats. Ainsi, vous rassurez vos visiteurs sans les stressez avec le montant global. Cette étape sera alors gérée dans le tunnel de commande.</i></p>
+<h2 style="color: #E0801C">Réassurance</h2>
+<h4 style="color: #E0801C">Les + :</h4>
+<p>Le site a un aspect très professionnel et l’accroche « Expertos Futboleros desde 1999 » rassure, notamment avec la date qui y est stipulée.<br />
+L’adresse de la boutique et son numéro de téléphone apportent beaucoup de réassurance.<br />
+Sur le panier, la possibilité de paiement immédiat par PayPal est également bénéfique aux conversions.<br />
+Enfin, lorsque l’on commande depuis l’Espagne, deux moyens de livraisons sont proposés : l’un pour les plus pressés, l’autre pour les plus économes.</p>
+<h4 style="color: #E0801C">Les axes d’optimisation :</h4>
+<ul style="padding-left:30px">
+<li><strong>Un footer rassurant</strong></li>
+</ul>
+<p>Le footer actuel montre les cartes de paiement qui, j’imagine, sont acceptées. En revanche, les avantages de la boutique ne sont pas mis en avant. N’hésitez pas à les indiquer clairement, et, pour le coup, à ajouter des icônes pour les rendre plus attrayantes !</p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/08/futbol-reassuring-footer.png" /></p>
+<p>Quelques idées de réassurance ? Vous pouvez :</p>
+<ul style="padding-left:30px; list-style-type: none;">
+<li>- ajouter un cadenas avec en texte « Paiement 100% sécurisé », </li>
+<li>- préciser « Satisfait ou remboursé », ou « Votre équipement personnalisé » vu qu’il s’agit d’un service proposé,</li>
+<li>- indiquer que le service client est à votre écoute, en précisant les horaires d’ouverture du magasin,</li>
+<li>- proposer des frais de ports offerts dès un certain montant atteint, ou annoncer une « livraison rapide »…</li>
+</ul>
+<p><strong>Transformez ce que vous proposez en avantages pour vos clients !</strong></p>
+<p><i style="color: #5B9BD5;"><strong>La réassurance</strong> est l’action par laquelle <strong>vous renforcez la confiance du visiteur sur votre boutique en ligne</strong>. Pour la rendre visible depuis toutes les pages, elle est généralement accolée au footer.<br />
+N’hésitez pas à la rendre <strong>très visuelle</strong> , grâce à des icônes, des sceaux de confiance, des services connus sur votre marché local (paiement et livraison), des mentions spécifiques (possibilité de retour produit, paiement sécurisé,…) ou des témoignages clients.</i></p>
+<h2 style="color: #E0801C">Référencement</h2>
+<h4 style="color: #E0801C">Les + :</h4>
+<p>Les balises title et meta description de la page d’accueil comme des pages produits ont bien été renseignées.</p>
+<h4 style="color: #E0801C">Les axes d’optimisation :</h4>
+<ul style="padding-left:30px">
+<li><strong>Des balises H1, H2 sur les bons éléments</strong></li>
+</ul>
+<p>Actuellement, si l’on regarde le code source de la page d’accueil ou d’une page produit, on voit que les balises H2 –notamment- sont souvent placées sur les prix ou sur le nombre d’articles contenus dans le panier.<br />
+Ce problème peut se régler en intervenant directement sur le thème et en plaçant les balises H2 sur les éléments les plus adéquats – un intégrateur saura parfaitement vous aider.</p>
+<p><i style="color: #5B9BD5;">En plaçant les balises sur les <strong>éléments les plus importants de chaque page</strong> (comme le nom du produit, la marque, les sous-catégories…), vous référencerez plus facilement le contenu de votre catalogue.</i></p>
+<p>Sur toute page web, les titres doivent entourés de balises, allant de H1 à H6 – H1 étant la plus importante. Ces balises permettent de <strong>hiérarchiser les informations de chaque page</strong> de votre site.<br />
+Imaginez un livre. Les balises H1 constitueraient les titres des chapitres, les balises H2 correspondraient aux sous-titres, les balises H3 aux titres des paragraphes, etc. </p>
+<p>Cela permet notamment <strong>d’aider la lecture des robots pour le référencement</strong>, en leur indiquant les informations les plus importantes de chacune des pages de votre boutique.</p>
+<ul style="padding-left:30px">
+<li><strong>Du contenu sur les fiches produits</strong></li>
+</ul>
+<p>Les pages dédiées aux produits comportent relativement peu de texte :</p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2015/08/futbol-product.png" /></p>
+<p>N’hésitez pas à ajouter du contenu qui apportera de la réassurance et contribuera à votre référencement !</p>
+<p>Par exemple, le même produit sur Amazon contient bien plus de texte :</p>
+<ul style="padding-left:30px; list-style-type: none;">
+<li>- l’équipe qui a joué avec ce type de ballon (et la saison durant laquelle ils ont joué avec);</li>
+<li>- les dimensions </li>
+<li>- la matière extérieure ;</li>
+<li>- le poids du ballon;</li>
+<li>- si le produit est livré gonflé ou non;</li>
+</ul>
+<p>… et surtout les avantages du produit : en quoi va-t-il séduire les éventuels acheteurs ? Ce produit offre-t-il de meilleurs rebonds que d’autres ? A-t-il une trajectoire plus précise, un toucher agréable ?&#8230;</p>
+<p><i style="color: #5B9BD5;">Chaque page de votre site e-commerce vous permet de convaincre vos visiteurs.<br />
+Utilisez-les à 100%, donnez-leur envie de choisir vos produits <strong>en donnant un maximum d’informations et en utilisant un ton dynamique</strong> qui séduira vos futurs clients. Cela sera bénéfique à votre référencement comme à vos conversions !</i></p>
+<h2 style="color: #E0801C">Et pour finir…</h2>
+<p>Les produits proposés sur votre boutique sont très qualitatifs, les visuels donnent envie et peuvent intéresser des fans de football dans d’autres pays ! Une fois les optimisations apportées à votre boutique, n’hésitez pas à le traduire en anglais, à proposer des moyens de livraison accessibles depuis l’étranger, et également à référencer vos produits sur <a href="http://addons.prestashop.com/fr/recherche?id_category=0&#038;search_query=google+shopping" target="_blank">Google Shopping</a> pour optimiser votre trafic comme vos ventes.<br />
+Toute l’équipe vous souhaite une excellente continuation !</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/audit-boutique-100-football/">Audit de boutique – 100% Football</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/audit-boutique-100-football/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Améliorez le référencement événementiel de votre boutique en ligne</title>
+		<link>https://www.prestashop.com/blog/fr/ameliorez-referencement-evenementiel-boutique-en-ligne/</link>
+		<comments>https://www.prestashop.com/blog/fr/ameliorez-referencement-evenementiel-boutique-en-ligne/#comments</comments>
+		<pubDate>Wed, 19 Aug 2015 12:23:14 +0000</pubDate>
+		<dc:creator><![CDATA[Gary Le Masson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19270</guid>
+		<description><![CDATA[<p>Chaque secteur du e-commerce fait face à une série d&#8217;événements annuels présentant des opportunités de vente que les marchands ne peuvent pas se permettre de rater : la Saint-Valentin, la fête des Mères, Noël et les soldes saisonniers ne sont que quelques exemples parmi tant d&#8217;autres. Les clients raffolent de ce genre d&#8217;événements et les [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/ameliorez-referencement-evenementiel-boutique-en-ligne/">Améliorez le référencement événementiel de votre boutique en ligne</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Chaque secteur du e-commerce fait face à une série d&rsquo;événements annuels présentant des opportunités de vente que les marchands ne peuvent pas se permettre de rater : la Saint-Valentin, la fête des Mères, Noël et les soldes saisonniers ne sont que quelques exemples parmi tant d&rsquo;autres. Les clients raffolent de ce genre d&rsquo;événements et les quelques boutiques en ligne référencées avec les bons mots-clés observeront une hausse significative de leurs ventes pendant ces périodes.<br />
+<span id="more-19270"></span><br />
+<strong>Penchons-nous sur cet exemple :</strong></p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/08/seo_bouquet.png" /></p>
+<p style="text-align:center; font-style: italic;">Évolution de la requête « bouquet » aux États-Unis extraite de <a href="https://www.google.com/trends/explore#q=bouquet&#038;geo=US&#038;cmpt=q&#038;tz=Etc%2FGMT-2" target="_blank">Google Trends</a></p>
+<p>Remarquez les deux pics en février et en mai de chaque année, lorsque les internautes cherchent des fleurs pour la Saint-Valentin et la fête des Mères (NDLR la fête des mères a lieu en mai aux Etats Unis). Tous les fleuristes savent qu&rsquo;il s&rsquo;agit de dates clés pour leur activité, mais savez-vous quels événements constituent les meilleures opportunités de vente pour votre activité ?</p>
+<h2 style="color: #27204a">Chaque activité commerciale connaît un effet saisonnier</h2>
+<p>Il est crucial d&rsquo;améliorer votre référencement pour les événements à court terme toute l&rsquo;année pour vous assurer que les internautes trouvent votre site quand le grand jour arrive. Plus la durée de l&rsquo;événement est courte, par exemple des soldes exceptionnels le temps d&rsquo;une journée, meilleur doit être votre référencement. Vous n&rsquo;avez pas besoin de travailler sur votre page consacrée à Noël ou à la rentrée des classes tous les jours, bien sûr, mais il est préférable de la configurer et de vous en occuper à plusieurs moments dans l’année afin de garantir que votre classement SEO se maintient et s&rsquo;améliore tout au long de l&rsquo;année.</p>
+<p>Intéressons-nous à présent à ce que vous pouvez faire avant, pendant et après les occasions particulières de vente pour booster votre référencement.</p>
+<h2 style="color: #27204a">Qu&rsquo;est-ce que cela apportera à mon activité ?</h2>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/08/seo_black_friday.png" /></p>
+<p style="text-align:center; font-style: italic;">Évolution de la requête « Black Friday » aux États-Unis extraite de <a href="https://www.google.com/trends/explore#q=black%20friday&#038;geo=US&#038;cmpt=q&#038;tz=Etc%2FGMT-2" target="_blank">Google Trends</a></p>
+<p>Selon une étude de la <a href="https://nrf.com/media/press-releases/early-promotions-online-shopping-and-improving-economy-changing-the-face-of" target="_blank">National Retail Federation</a> (Fédération américaine du commerce de détail), au cours du week-end de Thanksgiving 2014 aux États-Unis, 42 % du budget de l&rsquo;acheteur moyen a été dépensé en ligne, soit 159,55 $ de recettes pour l&rsquo;e-commerce. Voici le genre d&rsquo;opportunités que vous ne pouvez pas vous permettre de rater, en particulier si vous envisagez un avenir B2C pour votre boutique en ligne.</p>
+<h2 style="color: #27204a">Songez au type d&rsquo;événements pouvant profiter à votre activité.</h2>
+<p>Étudiez attentivement votre secteur et vos produits, puis remplissez votre propre calendrier e-commerce. Votre activité offre-t-elle des opportunités uniques dont vous pouvez profiter pour accroître les ventes à des moments clés de l&rsquo;année ? Réfléchissez à vos produits et au mode de vie de vos clients : quand auraient-ils davantage besoin de ce que vous vendez ? Faites preuve d&rsquo;imagination. Si vous vendez du café, vous pourriez par exemple regrouper des produits pour proposer aux étudiants des packs de préparation aux examens du Bac. Couvrez les événements les plus courants dans un premier temps mais n’oubliez pas d’être imaginatif et de mettre en contexte vos produits ou packs de produits.</p>
+<h2 style="color: #27204a">Définissez vos offres.</h2>
+<p>Les événements exigent des offres spéciales. Les périodes de soldes, comme le Cyber Monday et le Black Friday aux États-Unis, sont attrayantes en raison de leur courte durée et de leurs offres incroyables. Essayez de faire en sorte que vos offres soient pertinentes et adaptées au type d&rsquo;événements : vous devrez être imbattable face à la concurrence. En proposant une offre alléchante et originale, vous aurez également moins de mal à convaincre les blogueurs et autres acteurs influents de parler de vous à leur communauté.</p>
+<h2 style="color: #27204a">Faites des recherches dans Google Trends pour comprendre ce que les utilisateurs tapent dans leur moteur de recherche.</h2>
+<p>Comme dans tout projet de référencement, vous devez d&rsquo;abord identifier les mots-clés utilisés par vos clients. Sélectionnez des mots-clés qui cibleront spécifiquement vos produits et indiquent un créneau sur votre marché de niche. N&rsquo;oubliez pas que les recherches pour des mots comme « offres spéciales », « soldes », « guides cadeaux », « Cyber Monday » et « Black Friday » connaissent des pics.</p>
+<h2 style="color: #27204a">Créez des catégories.</h2>
+<p>Une fois que vous savez ce que recherchent les utilisateurs, vous pouvez créer des catégories de produits qui répondent à ces besoins.<br />
+Créez une catégorie de produits par événement et mot-clé afin de créer automatiquement une URL et une page de destination dédiées. Gardez à l&rsquo;esprit que vous ne créerez pas de nouvelles catégories « soldes » tous les ans, mais que vous réutiliserez celles des années précédentes. À ce stade, vous n&rsquo;êtes pas seulement en train de définir des catégories, mais aussi de planifier votre stratégie globale dans le but que votre site capitalise sur les événements passés. Si vous suivez ces conseils, vous constaterez que les liens que vous aurez acquis en faisant buzzer votre page l’année précédente vous aideront à mieux vous positionner l’année suivante.</p>
+<h2 style="color: #27204a">Élaborez une page de destination.</h2>
+<p>Vous cherchez des idées ? Vous trouverez d&rsquo;excellents exemples de pages de destination dans cet article passionnant sur le Black Friday sur <a href="http://www.techradar.com/news/world-of-tech/roundup/black-friday-deals-2015-1294927" target="_blank">TechRadar.com</a> (en anglais).</p>
+<p><strong>Liens rapides pour les États-Unis :</strong></p>
+<ul style="padding-left:30px">
+<li><a href="http://www.amazon.com/Black-Friday/b?tag=geo02a9-20&#038;node=384082011" target="_blank">Amazon.com &#8211; Black Friday homepage</a></li>
+<li><a href="http://www.bestbuy.com/site/misc/black-friday/pcmcat225600050002.c?id=pcmcat225600050002" target="_blank">Best Buy &#8211; Black Friday 2015 deals</a></li>
+<li><a href="http://www.walmart.com/cp/black-friday/1076614" target="_blank">Wallmart &#8211; Black Friday homepage</a></li>
+<li><a href="http://www.target.com/c/target-black-friday/-/N-5q0f2" target="_blank">Target &#8211; Black Friday landing page</a></li>
+<li><a href="http://www.att.com/shop/special-offers.html" target="_blank">AT&#038;T &#8211; Special Offers homepage</a></li>
+<li><a href="http://www.verizonwireless.com/black-friday/" target="_blank">Verizon &#8211; Black Friday deals</a></li>
+<li><a href="http://www.toysrus.com/shop/index.jsp?categoryId=16289696" target="_blank">Toys &lsquo;R&rsquo; Us &#8211; Black Friday made easy</a></li>
+<li><a href="http://www.gamestop.com/blackfriday" target="_blank">Gamestop &#8211; Black Friday deals</a></li>
+</ul>
+<p><strong>Liens rapides pour le Royaume-Uni :</strong></p>
+<ul style="padding-left:30px">
+<li><a href="http://www.amazon.co.uk/Black-Friday-Deals/b/?tag=geo01-21&#038;_encoding=UTF8&#038;camp=1634&#038;creative=19450&#038;linkCode=ur2&#038;node=161428031&#038;linkId=K7ZNDE6BPTS2ETEQ" target="_blank">Amazon.co.uk &#8211; Black Friday page</a></li>
+<li><a href="http://www.johnlewis.com/electricals/black-friday/c6000670128" target="_blank">John Lewis Black Friday page</a></li>
+<li><a href="http://www.currys.co.uk/gbuk/black-friday-785-commercial.html" target="_blank">Currys Black Friday page</a></li>
+<li><a href="http://www.argos.co.uk/static/ArgosPromo3/includeName/black-friday.htm" target="_blank">Argos &#8211; Black Friday deals homepage</a></li>
+<li><a href="http://www.boots.com/en/Black-Friday/" target="_blank">Boots &#8211; Black Friday weekend</a></li>
+<li><a href="http://www.game.co.uk/webapp/wcs/stores/servlet/HubArticleView?hubId=268754&#038;articleId=268755&#038;catalogId=10201&#038;langId=&#038;storeId=10151" target="_blank">GAME &#8211; Black Friday deals</a></li>
+<li><a href="http://www.asda.com/blackfriday/index.html" target="_blank">ASDA Black Friday homepage</a></li>
+<li><a href="http://www.tesco.com/direct/black-friday-cyber-monday-deals/" target="_blank">Tesco direct Black Friday and Cyber Monday deals</a></li>
+</ul>
+<p>Certes, vous n&rsquo;utiliserez pas ces pages de catégories tous les jours, mais vous devrez les modifier à trois moments importants : </p>
+<ol type="1">
+<li><strong>Avant l&rsquo;événement</strong></li>
+<ul style="padding-left:30px">
+<li>Commencez à faire allusion au grand événement. </li>
+<li>Apportez une composante sociale à la page et encouragez vos visiteurs à la partager avec leurs amis et followers.</li>
+<li>Votre page n&rsquo;est pas reliée à la page d&rsquo;accueil ou au menu principal, mais elle pourrait être reliée à votre barre latérale (sidebar) ou à votre bas de page (footer) afin que les moteurs puissent la trouver.</li>
+<li>Commencez à inciter les visiteurs à s&rsquo;abonner à vos e-mails avec un slogan de ce genre :</li>
+<p>        <img src="https://www.prestashop.com/blog/en/files/2015/08/seo_prepare_black_friday.png" />
+    </ul>
+<li><strong>Pendant l&rsquo;événement</strong></li>
+<ul style="padding-left:30px">
+<li>Mettez tout en œuvre pour amener les utilisateurs à consulter votre page.</li>
+<li>Si des internautes se sont inscrits à votre mailing list, n&rsquo;oubliez pas de leur donner accès aux offres spéciales avant tous les autres !</li>
+<li>Faites en sorte que vos catégories soient accessibles depuis le menu principal et la page d&rsquo;accueil.</li>
+<li>Assurez-vous que vos produits figurent dans les catégories.</li>
+<li>Envisagez d&rsquo;avoir recours à Adwords et à des publicités sur les réseaux sociaux.</li>
+</ul>
+<p>Lorsque vous approcherez du grand événement, vous actualiserez votre contenu en ajoutant les pages de la catégorie concernée et en reliant directement votre page de destination à votre page d&rsquo;accueil, comme Target dans l&rsquo;exemple ci-dessous :</p>
+<p><img src="https://www.prestashop.com/blog/en/files/2015/08/seo_target.png" />  </p>
+<li><strong>Après l&rsquo;événement</strong></li>
+<ul style="padding-left:30px">
+<li>Commencez par étudier les ventes que vous avez réalisées, ce qui a marché et ce qui n&rsquo;a pas marché pour vous. Rédigez vos conclusions pour l&rsquo;année prochaine. C’est généralement une excellente habitude de faire un bilan de chaque action afin de répéter ce qui fonctionne et améliorer ce qui ne fonctionne pas.</li>
+<li>Supprimez le lien reliant votre catégorie spéciale à la page d&rsquo;accueil et au menu principal (mais ne supprimez pas votre page !).</li>
+<li>Passez la page en mode hibernation jusqu&rsquo;à l&rsquo;année prochaine, en conservant le lien sur la page du plan de votre site.</li>
+</ul>
+</ol>
+<p>Bien qu&rsquo;il soit important de commencer à travailler sur votre événement dès maintenant, mieux vaut ne pas révéler vos offres trop tôt pour créer la surprise une fois le grand jour arrivé. Votre page de destination dédiée existera toute l&rsquo;année au sein de l&rsquo;architecture de votre site, accumulant de l’historique de référencement au fil du temps.</p>
+<h2 style="color: #27204a">Tirez parti des outils sociaux.</h2>
+<p>En plus de votre page de destination, vous devrez créer des contenus pour soutenir votre événement. Écrivez une série d&rsquo;articles de blog afin de promouvoir vos produits et vos offres spéciales. Préparez-les en avance pour éviter de devoir soudainement rédiger des contenus pertinents pendant la folie des soldes. N&rsquo;oubliez pas de publier vos articles via les réseaux sociaux. </p>
+<h2 style="color: #27204a">Commencez à nouer des relations avec les blogueurs influents dans votre secteur.</h2>
+<p>Informez-les de vos offres spéciales pour les inciter à en parler sur leur blog et au sein de leurs réseaux. Prévenez-les avant de poster des messages importants afin qu&rsquo;ils aient l&rsquo;impression d&rsquo;obtenir un scoop.</p>
+<h2 style="color: #27204a">Commencez dès aujourd&rsquo;hui.</h2>
+<p>Si vous avez survécu aux fêtes de fin d&rsquo;année de l&rsquo;an passé, vous savez que c&rsquo;est une période stressante, bien que lucrative. Rendez-vous service : créez votre page de destination, rédigez vos contenus et contactez les acteurs influents dès maintenant. Le référencement met du temps à donner des résultats et vous ne voulez rien rater lorsque les soldes débuteront.</p>
+<p>J’espère que ces conseils vous ont aidé à trouver des moyens de booster votre référencement en prévision des événements à venir. Que faites-vous d&rsquo;autre pour couvrir les événements ? Vous avez des questions à me poser ? N’hésitez pas une seule seconde et laissez un commentaire <img src="https://www.prestashop.com/blog/fr/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> </p>
+<p>Et en prime, une petite recommandation de module adaptée à l’événementiel : le <a href="http://addons.prestashop.com/fr/335-ventes-flash" target="_blank">module de ventes flash sur PrestaShop Addons</a></p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/ameliorez-referencement-evenementiel-boutique-en-ligne/">Améliorez le référencement événementiel de votre boutique en ligne</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/ameliorez-referencement-evenementiel-boutique-en-ligne/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vos clients sont avant tout des socionautes : pourquoi les considérer comme une communauté ?</title>
+		<link>https://www.prestashop.com/blog/fr/vos-clients-socionautes-les-considerer-communaute/</link>
+		<comments>https://www.prestashop.com/blog/fr/vos-clients-socionautes-les-considerer-communaute/#comments</comments>
+		<pubDate>Wed, 19 Aug 2015 08:22:38 +0000</pubDate>
+		<dc:creator><![CDATA[Camille Sila]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19234</guid>
+		<description><![CDATA[<p>Aujourd’hui, nous sommes ravis de vous présenter l’expertise en matière de communautés en ligne de notre agence web invitée Envergure Digitale. A la fin de cet article vous aurez les clés pour fédérer votre propre communauté en ligne ! 29% des Français trouvent les messages marketing des marques sur les supports de communication inintéressants voire [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/vos-clients-socionautes-les-considerer-communaute/">Vos clients sont avant tout des socionautes : pourquoi les considérer comme une communauté ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><i>Aujourd’hui, nous sommes ravis de vous présenter l’expertise en matière de communautés en ligne de notre agence web invitée <a href="https://www.prestashop.com/fr/agences-web-partenaires/seo/envergure-digitale" target="_blank">Envergure Digitale</a>. A la fin de cet article vous aurez les clés pour fédérer votre propre communauté en ligne !</i></p>
+<p>29% des Français trouvent les messages marketing des marques sur les supports de communication inintéressants voire inutiles. Il est temps de changer la tendance !<br />
+<span id="more-19234"></span></p>
+<p>Non votre client n’est pas qu’un simple porte-monnaie qui fera gonfler votre chiffre d’affaires ! En fait il n’est d’ailleurs même pas un client car il est aujourd’hui bien plus que ça : il est un socionaute à part entière faisant partie de votre communauté. Seulement il est possible qu’entre tout ce que vous avez déjà à gérer pour votre entreprise cette subtile évolution vous ait échappé. Pour remédier à cela, nous vous proposons aujourd’hui de repenser votre relation client mais plus largement votre stratégie globale et votre culture d’entreprise. Faire vivre une communauté n’est pas un acte isolé et doit se retrouver dans chacune des actions que vous entreprenez, avant, pendant et après l’acte d’achat !</p>
+<h2 style="color: #27204a;">1. Des marques encore trop souvent déconnectées des attentes des internautes</h2>
+<p>C’est plongé dans une jungle asphyxiante d’informations et de stimuli visuels que se retrouve l’internaute aujourd’hui. Mais de toute évidence, les marchands ne sont pas prêts à freiner la diffusion des contenus publicitaires contenus publicitaires car ils postent plus de 300 milliards de publicités chaque année sur vos différents supports de communication !</p>
+<p>Pourtant sachez que vous avez tout à gagner à modérer ce type de publications car l’internaute est plus que jamais lassé de cette surexposition répétitive, envahissante et souvent agressive. Par exemple, seulement 15% des personnes s’abonnant à des marques sur les réseaux sociaux le font pour être informées des promotions&#8230; Alors que 45% des désabonnements sont dûs à de trop nombreux messages promotionnels !</p>
+<p><img alt="" src="https://www.prestashop.com/blog/fr/files/2015/08/les-marques-sur-les-reseaux-sociaux-envergure-digitale.jpg" /></p>
+<p><img alt="" src="https://www.prestashop.com/blog/fr/files/2015/08/desabonnement-newsletters-envergure-digitale.gif" /></p>
+<p>Pire encore, 69% des internautes affirment <i>“si un site de marque proposait des informations de fond (à la manière d’un magazine) et pas seulement des contenus commerciaux ou publicitaires, je le consulterais plus souvent”</i>.</p>
+<p><img alt="" src="https://www.prestashop.com/blog/fr/files/2015/08/pyramide-de-maslow-envergure-digitale.jpg" /></p>
+<p>Réseaux sociaux, blogs, sites de marques ou encore newsletters sont aujourd&rsquo;hui pointées du doigt à cause du décalage croissant entre les contenus publiés par les marques et les attentes des internautes. Tandis qu’ils sont à la recherche de contenu qualitatif et de possibilités d’échange avec vous, vous devenez omniprésents sur les différents supports de communication et vous multipliez les publications pour la plupart trop commerciales ; résultat des courses : 52% d’entre eux ne se sentent pas assez écoutés ! (<a href="http://goo.gl/oYCJzu" target="_blank">http://goo.gl/oYCJzu</a>) Vous n’êtes toujours pas convaincus ? Alors sachez que 81% des e-commerçants qui ont mis en place une stratégie de contenus de qualité voient le trafic sur leur site e-commerce augmenter.</p>
+<p>Aujourd&rsquo;hui nous constatons que trop nombreux encore sont les e-commerçants qui ne prennent pas en compte une dimension primordiale : vous n’avez plus affaire à de simples clients mais à des communautés qui doivent vous guider dans chacune vos actions.</p>
+<h2 style="color: #27204a;">2. Qu’est-ce qu’une communauté digitale pour une marque ?</h2>
+<p>Nous remarquons trop souvent l’existence de supports de communication digitaux mal exploités qui entretiennent un monologue publicitaire. Souvenez-vous que leur rôle premier reste de créer et de partager de l’information pour faire naître de l’interaction… Et non pas d’essayer frénétiquement de vendre à tout le monde ! Désormais soyez prêts à repenser votre relation clientèle ainsi que la stratégie d’ensemble de votre entreprise.</p>
+<p>Puisqu’il est noyé dans un océan digital, l’internaute recherche des repères et s’intègre dans une tribu (Seth Godin) composée de membres partageant les mêmes intérêts ou les mêmes valeurs que lui. Cette tribu est une communauté en devenir qu’il faut que vous captiez et que vous intéressiez jour après jour pour l’unir et la fédérer autour de votre marque. L’intéresser ne veut pas nécessairement dire la pousser à l’acte d’achat mais bel et bien la captiver grâce à des contenus variés auxquels elle sera réceptive et grâce auxquels elle reviendra vers vous. Pour Envergure Digitale votre marque doit résolument devenir intime et affective !</p>
+<p>Rassurez-vous, bannir les messages purement commerciaux n’est en aucun cas le but que nous recherchons mais il faut savoir trouver ce petit plus qui vous démarquera d’une autre marque. Aujourd’hui les prestations, les produits et les prix proposés se ressemblent tous et ne sont plus des leviers aussi déterminants qu’avant. C’est donc grâce au contenu proposé qu’il est possible de créer une véritable plus value pour le socionaute et donc un avantage concurrentiel pour vous.</p>
+<p>Vous devez passer de la simple transaction délimitée dans le temps et dans l’espace à une véritable relation en tissant des liens durables avec votre communauté. Elle constitue votre noyau dur d’aficionados qui sont des relais potentiels aussi précieux que rares !</p>
+<h2 style="color: #27204a;">3. Pourquoi gérer une communauté plus que des clients ?</h2>
+<p>Un client achète mais une communauté s’engage et c’est aujourd’hui ce que nous recherchons pour notre agence mais aussi pour nos partenaires : l’engagement au-delà du simple acte d’achat. En plus de susciter une fidélité attitudinale ou comportementale, gérer une communauté au quotidien a de nombreux autres avantages.</p>
+<p>Tout d’abord cela vous permet de recueillir des informations plus précises sur vos socionautes : leurs problématiques, leurs attentes ou leurs besoins. Ces renseignements vous permettent de segmenter précisément votre communauté pour adapter vos contenus mais aussi vos offres. Il est donc important d’analyser quotidiennement l’impact qu’a telle ou telle publication : le taux d’ouverture d’une newsletter ou le nombre de commentaires sur un article de blog sont par exemple de bons indicateurs.</p>
+<p>Cette étape passe obligatoirement par une grande réactivité de votre part. Il est primordial de répondre le plus rapidement possible aux publications de votre communauté que ce soit une simple demande de conseil, un avis négatif ou positif ou une question pratique sur un forum. L’avantage de la réactivité est considérable pour le socionaute mais aussi pour vous car elle affiche publiquement le soin et la rapidité que vous mettez à traiter chaque requête. Sachez que cela sécurise la communauté existante et convainc plus facilement un potentiel client de vous faire confiance !</p>
+<p>Une telle réactivité doit conduire à de la transparence qui est une qualité de plus en plus remarquable… Et pourtant recherchée ! 7 Français sur 10 jugent en effet que les réseaux sociaux n’ont pas amené les marques à être plus transparentes et le déplorent. Par exemple, il faut apprendre à expliquer publiquement dans la limite du raisonnable pourquoi votre marque n’a pas pu tenir tel engagement et à présenter des excuses sincères. Pensez toujours que vous devez entretenir une véritable relation et agissez en conséquence !</p>
+<p><img alt="" src="https://www.prestashop.com/blog/fr/files/2015/08/transparence-des-marques-envergure-digitale.gif" /></p>
+<h2 style="color: #27204a;">4. Envergure Digitale livre des pistes et des conseils aux marques désireuses de fédérer une communauté</h2>
+<p>Pour gérer votre communauté, il faut que vous gardiez à l’esprit que votre client doit se sentir comme un membre à part entière que vous récompensez pour son engagement : misez donc plus que jamais sur l’expérience de marque. Et toutes vos actions, même celles qui n’ont à priori rien à voir avec la communication et le marketing, doivent entretenir ce processus !</p>
+<ul style="padding-left: 30px;">
+<li><span style="text-decoration: underline;">Comprendre qui constitue la communauté :</span> Il ne sert à rien de se lancer dans la rédaction de contenus si on ne connaît pas le public à qui on s’adresse. Créez des personas permettra de mieux appréhender le style et le type de publications qui éveilleront l’intérêt de votre communauté.</li>
+<li><span style="text-decoration: underline;">Adapter ses contenus en fonction :</span> Toute communauté a ses spécificités et ses attentes en matière de publications et donc n’oubliez pas d’écrire avant tout pour la vôtre.</li>
+<li><span style="text-decoration: underline;">Humaniser sa marque :</span> Pensez aux publications relatives à la vie de votre entreprise dont toute communauté est friande. Bien pensées, elles conféreront instantanément un côté plus sympathique à votre marque.</li>
+<li><span style="text-decoration: underline;">Personnaliser les échanges :</span> Ne faites pas l’impasse sur la personnalisation de vos contenus car cela pourrait à terme vous coûter cher. Sachez par exemple que le taux d’ouverture d’une newsletter personnalisée est en moyenne plus élevé de 35% à 50% que le taux d’ouverture d’une newsletter qui ne l’est pas.</li>
+<li><span style="text-decoration: underline;">Alterner entre publication commerciale et moins commerciale :</span> N’oubliez pas que vos clients forment une communauté et que votre communauté est formée de clients ! Pour cela nous préconisons d’alterner entre une publication commerciale et une publication qui fera oublier au socionaute que vous cherchez bel et bien à lui vendre quelque chose.
+<ul style="padding-left: 30px;">
+<li>Si vous êtes une épicerie fine ce type de publication peut être :
+<ul style="padding-left: 30px;">
+<li>Une recette originale,</li>
+<li>Un focus sur l’histoire d’un ingrédient,</li>
+<li>Une astuce culinaire insolite,</li>
+<li>Un chiffre clé surprenant sur la consommation d’un produit,</li>
+<li>Une invitation à un évènement gastronomique,</li>
+<li>Un avis sur un nouveau restaurant,</li>
+<li>Une réaction à chaud vis-à-vis de l’actualité qui vous concerne,</li>
+<li>Une idée santé de menus pour une semaine de canicule,</li>
+<li>… Les possibilités sont sans limite et ce genre de publication sur vos supports de communication intéresseront votre communauté et l’inciteront à y revenir quand elle cherchera des conseils, des astuces ou des informations.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><span style="text-decoration: underline;">Intégrer le socionaute à sa stratégie :</span> Interpellez directement votre communauté en lui demandant ce qu’elle souhaite que vous évoquiez comme article de fonds ou alors sur ce qu’elle pense de votre nouveau design e-commerce. Une fois encore faites comprendre au socionaute qu’il compte pour vous.</li>
+<li><span style="text-decoration: underline;">Faire vivre sa communauté partout et tout le temps :</span> Vous gérez une communauté sur un blog, des réseaux sociaux, une newsletter mais d’autres outils sont à votre disposition. Pensez par exemple à mettre en place des avis vérifiés qui feront naître la confiance de potentiels clients mais qui fédéreront avant tout les membres de la communauté existante. Envisagez aussi un chat en ligne qui vous permettra de conseiller votre communauté et de lui délivrer des contenus non commerciaux utiles. Enfin, la création d’un intranet est une solution trop souvent négligée alors qu’elle conforte définitivement le client dans sa place de membre privilégié. Vous pouvez par exemple y créer un forum ou un onglet répertoriant toutes les réductions que vous proposez et que proposent vos partenaires.</li>
+<li><span style="text-decoration: underline;">Saisir la moindre occasion :</span> Même une fiche produit doit être l’occasion de donner des informations qui vont au-delà des simples informations produit basiques. Si vous êtes un e-commerçant de l’habillement proposez des visuels de look pour chacun de vos produits ou des conseils d’entretien utiles.</li>
+<li><span style="text-decoration: underline;">Sortir de la vie virtuelle :</span> N’hésitez pas à convier les socionautes à vous retrouver dans la vie réelle grâce à l’organisation d’évènements. Cela peut par exemple être prendre la forme d’une visite guidée de vos locaux ou d’un apéritif.</li>
+</ul>
+<p><strong>Vous l’aurez compris, pour Envergure Digitale il n’y a plus de client mais une multitude de socionautes composant des communautés. Ces dernières s’apparentent véritablement à des organismes vivants qu’il faut entretenir jour après jour pour qu’elles se déploient et rayonnent. Nous le savons, cette vision est un changement de paradigme profond mais il doit selon nous entraîner une modification dans l’idéologie des marques et leurs pratiques.</strong></p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/vos-clients-socionautes-les-considerer-communaute/">Vos clients sont avant tout des socionautes : pourquoi les considérer comme une communauté ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/vos-clients-socionautes-les-considerer-communaute/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>PrestaShop soutient la conférence e-commerce la plus suivie d&#8217;Allemagne</title>
 		<link>https://www.prestashop.com/blog/fr/prestashop-soutient-k5/</link>
 		<comments>https://www.prestashop.com/blog/fr/prestashop-soutient-k5/#comments</comments>
@@ -272,7 +622,7 @@ Vous trouverez plus de conseils faciles à appliquer sur la page de documentatio
 <p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/mise-jour-securite-prestashop/">Mise à jour de sécurité pour PrestaShop</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.prestashop.com/blog/fr/mise-jour-securite-prestashop/feed/</wfw:commentRss>
-		<slash:comments>45</slash:comments>
+		<slash:comments>49</slash:comments>
 		</item>
 		<item>
 		<title>Renforcez la sécurité de votre boutique PrestaShop très facilement</title>
@@ -304,264 +654,6 @@ Lorsque vous installez PrestaShop, vous gérez votre boutique via votre back-off
 ]]></content:encoded>
 			<wfw:commentRss>https://www.prestashop.com/blog/fr/renforcez-securite-boutique-prestashop-tres-facilement/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
-		</item>
-		<item>
-		<title>8 astuces pour écrire un bon article de blog</title>
-		<link>https://www.prestashop.com/blog/fr/8-astuces-ecrire-bon-article-blog/</link>
-		<comments>https://www.prestashop.com/blog/fr/8-astuces-ecrire-bon-article-blog/#comments</comments>
-		<pubDate>Mon, 20 Jul 2015 08:30:50 +0000</pubDate>
-		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
-				<category><![CDATA[Conseils E-commerce]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19155</guid>
-		<description><![CDATA[<p>Environ 53,6 millions nouveaux articles sont publiés chaque mois rien que sur WordPress. Alors, pourquoi se donner le mal de lancer un blog si la concurrence est aussi rude ? Tout simplement parce qu&#8217;un blog professionnel pour votre boutique en ligne est un excellent moyen de nouer des relations avec les clients dans un contexte [...]</p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/8-astuces-ecrire-bon-article-blog/">8 astuces pour écrire un bon article de blog</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>Environ <strong>53,6 millions nouveaux articles</strong> sont publiés chaque mois rien que sur WordPress. Alors, pourquoi se donner le mal de lancer un blog si la concurrence est aussi rude ?</p>
-<p>Tout simplement parce qu&rsquo;un blog professionnel pour votre boutique en ligne est un excellent moyen de nouer des relations avec les clients dans un contexte non commercial. De bons articles de blog attirent l&rsquo;attention en résolvant des problèmes et en informant les lecteurs. Votre activité répond à un besoin unique des clients et votre blog se doit de mettre en avant cette spécificité. Si vous y parvenez, et si vous suivez les conseils ci-dessous, vous augmenterez vos chances de vous démarquer des 53 599 000 autres articles publiés ce mois-ci, et vous pourriez bien conquérir quelques nouveaux clients par la même occasion.<br />
-<span id="more-19155"></span></p>
-<h2 style="color: #29bad7">1 Apprenez à connaître votre public</h2>
-<p>Avant de commencer à écrire quoi que ce soit, posez-vous ces deux questions :</p>
-<p><span style="font-style: italic">Pourquoi est-ce que j&rsquo;écris cet article ?</span><br />
-Votre objectif commercial est peut-être d&rsquo;augmenter les ventes, mais le principal objectif de votre blog est d&rsquo;informer vos lecteurs et de leur donner des conseils afin de résoudre un problème. De cette façon, vous pouvez utiliser votre blog pour vous faire connaître et gagner leur confiance, ce qui est indispensable pour attirer et fidéliser des clients.</p>
-<p><span style="font-style: italic">Qui est mon public ?</span><br />
-Vous avez sûrement créé des <a href="https://www.prestashop.com/blog/fr/comment-elaborer-des-personas-pour-le-marketing-e-commerce-b2c/">profils d&rsquo;acheteurs types</a> lorsque vous avez lancé votre activité. Ressortez-les et gardez-les à l&rsquo;esprit quand vous écrivez. Cela vous aidera à mieux cerner votre client idéal et à écrire <span style="font-style: italic">POUR</span> lui : qu&rsquo;est-ce qui l&rsquo;intéresse ? Quels sont ses problèmes ? Quel genre de ton préfère-t-il : très technique ou plutôt cool et décontracté ?</p>
-<h2 style="color: #29bad7">2 Engagez une conversation</h2>
-<p>Une fois que vous savez à quel public vous vous adressez, réfléchissez à la manière dont vous allez lui parler. Un blog doit être à la fois convivial et attrayant, pratique et intuitif en termes de navigation.</p>
-<p>- <span style="font-style: italic">Allez au but :</span> vos lecteurs sont des gens occupés, donc allez droit au but et prouvez-leur qu&rsquo;ils ne perdent pas leur temps. Privilégiez la voix active et soyez concis : n&rsquo;employez pas dix mots quand cinq suffisent.</p>
-<p>- <span style="font-style: italic">Restez simple :</span> vous êtes là pour simplifier la vie de vos clients en leur donnant des conseils d&rsquo;expert, et non en leur exposant la richesse de votre vocabulaire. Évitez tout jargon technique, de même que les longues introductions digressives et autres notes en marge.</p>
-<h2 style="color: #29bad7">3 Informez au lieu de vendre</h2>
-<p>Les internautes croulent sous les messages commerciaux à longueur de journée, dès leur réveil jusqu&rsquo;à leur coucher. Il est fort probable qu&rsquo;ils ne se rendent pas sur votre site pour lire un énième argumentaire de vente. Ils vont se demander : « Qu&rsquo;est-ce que cela va m&rsquo;apporter ? », donc assurez-vous d&rsquo;avoir une réponse convaincante. Rédigez des articles de blog qui apportent quelque chose à vos lecteurs : la réponse à une question, la solution à un problème, ou encore une information qu&rsquo;ils ignoraient.</p>
-<h2 style="color: #29bad7">4 Imaginez des titres accrocheurs et « tweettables »</h2>
-<p>Les titres et sous-titres ont un double rôle : attirer les lecteurs curieux et classer votre blog dans les premiers résultats des moteurs de recherche. Des titres brefs et concis sont faciles à partager sur les réseaux sociaux, où vous pouvez lancer des conversations concernant votre blog et fidéliser les visiteurs.</p>
-<p>Pensez à employer des termes évocateurs et spécifiques ou à intégrer des questions qui piquent la curiosité. Certes, il est connu que les chiffres génèrent des clics, mais ils ont été massivement utilisés au point de devenir agaçants. Par conséquent, utilisez-les avec modération, toujours dans le cadre d&rsquo;un thème intéressant en lien avec votre activité, par ex. « 7 astuces pour une bonne nuit de sommeil » si vous vendez de la literie.</p>
-<p>Voici une source externe comprenant une liste de sites Web qui proposent d&rsquo;excellents générateurs de titres : <a href="http://smallbiztrends.com/2014/11/generate-article-titles-work.html" target="_blank">http://smallbiztrends.com/2014/11/generate-article-titles-work.html</a></p>
-<h2 style="color: #29bad7">5 Structurez vos idées</h2>
-<p>Personne n&rsquo;aime devoir trier les informations décousues contenues dans un texte en ligne. Faites en sorte que vos lecteurs puissent facilement suivre votre raisonnement et choisissez les informations dont ils ont besoin. Essayez ces astuces :</p>
-<ul style="padding-left: 30px">
-<li>utilisez des sous-titres pour organiser vos idées</li>
-<li>divisez le corps du texte en paragraphes digestes</li>
-<li>créez des listes à puces facilement consultables</li>
-</ul>
-<p>Et surtout, n&rsquo;oubliez pas de TOUJOURS vérifier la grammaire et l&rsquo;orthographe. Non seulement cela fera ressortir votre style d&rsquo;écriture, mais cela rassurera également vos lecteurs sur votre professionnalisme.</p>
-<p>Intégrez des images pertinentes pour séparer les différents paragraphes de texte et ajoutez des éléments visuels attrayants. N&rsquo;hésitez pas non plus à insérer des photos, croquis et schémas afin d&rsquo;expliciter les idées complexes.</p>
-<h2 style="color: #29bad7">6 Utilisez des mots-clés</h2>
-<p>Avant de commencer à écrire, <a href="https://www.prestashop.com/blog/fr/comment-trouver-les-bons-mots-cles-pour-le-seo-de-votre-site-ecommerce-partie-12/">faites une liste de mots-clés</a> en lien avec votre activité et le sujet que vous abordez. Gardez-les à l&rsquo;esprit pendant que vous écrivez et essayez de les intégrer judicieusement à votre texte, en particulier dans les titres et sous-titres. Avec le temps, et associés aux commentaires et autres avis des lecteurs sur les réseaux sociaux, les mots-clés vous aideront à améliorer votre classement dans les moteurs de recherche.</p>
-<p>Néanmoins, faites attention à ne pas utiliser trop de mots-clés : vous écrivez pour des êtres humains, et non des moteurs de recherche. Et surtout, ne copiez-collez jamais du texte provenant de votre propre blog ou d&rsquo;autres sites. Si vous dupliquez des contenus, vous risquez d&rsquo;<a href="https://www.prestashop.com/blog/fr/affronter-google-panda-meilleures-pratiques-referencement-prestashop/" target="_blank">avoir de gros problèmes avec Google</a>.</p>
-<h2 style="color: #29bad7">7 Terminez en beauté</h2>
-<p>Avant de conclure, récapitulez les principales idées à retenir pour vos lecteurs et ajoutez une incitation à l&rsquo;action. C&rsquo;est à cet endroit-là que vous pouvez glisser quelque chose en lien avec votre objectif commercial, par exemple en invitant les lecteurs à s&rsquo;abonner à votre newsletter ou à consulter une page produit associée.</p>
-<p>Voici quelques suggestions d&rsquo;incitations à l&rsquo;action :</p>
-<ul style="padding-left: 30px">
-<li>Posez une question aux lecteurs afin de les inciter à commenter et partager votre publication.</li>
-<li>Insérez des textes intéressants qui posent des questions.</li>
-<li>Indiquez clairement ce que vous attendez de vos lecteurs.</li>
-<li>Créez un sentiment d&rsquo;urgence.</li>
-<li>Mettez l&rsquo;accent sur les avantages.</li>
-<li>Intégrez l&rsquo;incitation à l&rsquo;action à un lien. Vous pouvez faire preuve de créativité si c&rsquo;est clair et approprié.</li>
-</ul>
-<p>…et surtout…</p>
-<h2 style="color: #29bad7">8 Soyez cohérent</h2>
-<p>Créer et animer un blog professionnel nécessite beaucoup de temps et d&rsquo;énergie, mais vous n&rsquo;êtes pas obligé de vous engager à écrire un article chaque jour dès le début. Mettez au point un blog solide en postant régulièrement des articles, même si ce n&rsquo;est qu&rsquo;une fois par semaine. Vous pouvez utiliser les newsletters et les réseaux sociaux pour informer votre communauté des nouvelles publications. Mais n&rsquo;oubliez pas, une fois que vous lancez un blog, vous devez le tenir à jour !</p>
-<p><a href="https://www.prestashop.com/blog/fr/complete-introduction-au-blogging-e-commerce/">https://www.prestashop.com/blog/fr/complete-introduction-au-blogging-e-commerce/</a></p>
-<p>Voici un ancien article de blog qui contient davantage d&rsquo;informations sur la création d&rsquo;un calendrier éditorial, pour plus de cohérence <img src="https://www.prestashop.com/blog/fr/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" /> </p>
-<h2 style="color: #29bad7">Pour résumer</h2>
-<ul style="padding-left: 30px">
-<li>Publiez régulièrement des articles</li>
-<li>Adaptez le contenu et le ton à votre public</li>
-<li>Écrivez des articles qui apportent une valeur ajoutée à vos lecteurs</li>
-<li>Structurez les contenus pour améliorer la lisibilité</li>
-<li>Passez le correcteur orthographique !</li>
-<li>Terminez avec une incitation à l&rsquo;action</li>
-</ul>
-<p>Avez-vous un blog professionnel ? Qu&rsquo;est-ce qui fonctionne ou non pour vous ?<br />
-Vous n&rsquo;avez pas encore de blog ? Créez-en un dès aujourd&rsquo;hui grâce à ce module : <a href="http://addons.prestashop.com/fr/gestion-de-contenu/4731-blog-professionnel.html" target="_blank">http://addons.prestashop.com/fr/gestion-de-contenu/4731-blog-professionnel.html</a></p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/8-astuces-ecrire-bon-article-blog/">8 astuces pour écrire un bon article de blog</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/fr/8-astuces-ecrire-bon-article-blog/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-		</item>
-		<item>
-		<title>Thèmes vs développement sur mesure : pourquoi les thèmes sont si populaires</title>
-		<link>https://www.prestashop.com/blog/fr/themes-vs-developpement-mesure-les-themes-populaires/</link>
-		<comments>https://www.prestashop.com/blog/fr/themes-vs-developpement-mesure-les-themes-populaires/#comments</comments>
-		<pubDate>Fri, 17 Jul 2015 07:31:20 +0000</pubDate>
-		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
-				<category><![CDATA[Conseils E-commerce]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19149</guid>
-		<description><![CDATA[<p>Il existe de nombreux moyens pour personnaliser l’apparence de votre boutique en ligne. Vous pouvez par exemple utiliser le thème par défaut inclus avec le logiciel, acheter un thème sur PrestaShop Addons ou engager un développeur web pour vous créer un site sur mesure. Bien que chacune de ces options soit parfaite pour personnaliser votre [...]</p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/themes-vs-developpement-mesure-les-themes-populaires/">Thèmes vs développement sur mesure : pourquoi les thèmes sont si populaires</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>Il existe de nombreux moyens pour personnaliser l’apparence de votre boutique en ligne. Vous pouvez par exemple utiliser le <a href="https://www.prestashop.com/blog/fr/modules-prestashop-personnalisez-page-daccueil/">thème par défaut</a> inclus avec le logiciel, acheter un thème sur <a href="http://addons.prestashop.com/fr/">PrestaShop Addons</a> ou <a href="https://www.prestashop.com/fr/agences-web-partenaires">engager un développeur web</a> pour vous créer un site sur mesure. Bien que chacune de ces options soit parfaite pour personnaliser votre boutique en ligne, toutes ont leurs avantages et leurs inconvénients.</p>
-<p>Afin de présenter les avantages de chaque option, nous avons interrogé les personnes les mieux renseignées. Aujourd’hui, nous discutons avec Maxim Kiryanov du principal concepteur de thèmes sur PrestaShop Addons, Template Monster.<br />
-<span id="more-19149"></span></p>
-<h2 style="color: #d39c4c">1. Les thèmes font gagner du temps</h2>
-<p>Vous connaissez sûrement le proverbe : « le temps, c’est de l’argent ». Eh bien, c’est précisément ce que font les thèmes en vous aidant à personnaliser votre boutique à la vitesse de l’éclair. Selon le niveau de personnalisation que vous souhaitez, vous pouvez modifier l’apparence et l’ergonomie de votre site en moins d’une heure.</p>
-<p>C’est la première fois que vous installez un thème ? Pas de panique si ce processus ne vous est pas familier. Même sans compétences en matière de codage, de conception et de développement de sites web, vous pouvez donner à votre boutique l’allure de votre choix en l’espace d’une semaine. Template Monster propose de nombreux <a href="http://www.templatemonster.com/help/prestashop-1-6-x-how-to-install-the-template-to-prestashop-cloud-hosting.html" target="_blank">manuels et tutoriels</a> qui vous guident tout au long du processus d’installation de votre premier thème.</p>
-<h2 style="color: #d39c4c">2. Les thèmes sont peu coûteux</h2>
-<p>Le thème moyen coûte environ 144,99 $ (hors taxes). En plus du thème, vous recevrez également le fichier .psd d’origine et d’autres fichiers d’images qui peuvent être personnalisés pour s’adapter à votre site. Ces images vous aideront à lancer plus rapidement votre boutique et pourront ultérieurement servir de modèle pour des images futures.</p>
-<p>Avec Template Monster vous avez également accès à une assistance professionnelle 24h/24, 7j/7. « Nous travaillons même le 31 décembre ». Maxim Kiryanov ajoute : « Et ce n’est pas une blague ». Les équipes de Template Monster savent que les chefs d’entreprise ne prennent pas de vacances, donc elles non plus ! Elles sont toujours disponibles pour vous aider à personnaliser votre boutique en fonction de votre stratégie de marque.</p>
-<h2 style="color: #d39c4c">3. Les thèmes offrent des designs professionnels</h2>
-<p>Le principal avantage lorsque vous achetez un module est le design. Les thèmes les plus populaires de Template Monster sont développés conformément aux exigences de PrestaShop. Par ailleurs, ils suivent <a href="https://www.prestashop.com/blog/fr/design-e-commerce-5-tendances-2015/">les dernières tendances en matière de design</a>, comme le défilement parallaxe, les arrière-plans animés et les grandes images.</p>
-<p>Dans la mesure où Template Monster a conçu plus de 50 000 thèmes PrestaShop, ses équipes ont l’habitude de créer des designs à la fois beaux et modernes qui correspondent à chaque type de produit de niche. Il existe une multitude de thèmes conçus par des professionnels pour toutes sortes de projets. Des <a href="http://addons.prestashop.com/fr/themes-deco-design/18247-kitchen-supplies-store.html" target="_blank">ustensiles de cuisine</a> aux <a href="http://addons.prestashop.com/fr/themes-gastronomie-alimentation/18355-cigar-smoking.html" target="_blank">cigares électroniques</a>, vous trouverez forcément le modèle adapté à votre secteur, quel que soit le type de boutique que vous prévoyez d’ouvrir.</p>
-<div class="row">
-<div class="col-sm-6"><img class="aligncenter size-large wp-image-20378" alt="ecigarettes" src="https://www.prestashop.com/blog/fr/files/2015/07/ecigarettes-546x1024.jpg" width="546" height="1024" /></div>
-<div class="col-sm-6"><img class="aligncenter size-large wp-image-20377" alt="kitchen" src="https://www.prestashop.com/blog/fr/files/2015/07/kitchen-323x1024.jpg" width="323" height="1024" /></div>
-</div>
-<h2 style="color: #d39c4c">4. Les thèmes simplifient le lancement de boutiques</h2>
-<p>Créer une boutique en ligne n’est pas chose facile. L’utilisation d’un thème simplifie le processus de lancement de votre site e-commerce. Vous n’avez pas besoin d’effectuer vos propres recherches sur l’optimisation des pages produits et de destination. Tous ces éléments sont déjà intégrés au thème que vous achetez.<br />
-Même si vous décidez de personnaliser le thème, vous pouvez accélérer le processus en disposant d’un design optimisé. Contrairement au développement sur mesure, il n’y a aucun temps d’arrêt. Chaque thème a d’ores et déjà été testé. Vous n’avez plus qu’à choisir le bon pour votre boutique.</p>
-<h2 style="color: #d39c4c">Ce qu’il faut retenir</h2>
-<p>Les principales raisons d’acheter un thème sont le temps et l’argent. Comparé au développement sur mesure ou à un design bricolé, vous obtiendrez une jolie boutique en un rien de temps. Outre ces deux avantages, les thèmes sont créés conformément aux meilleures pratiques du développement afin d’optimiser les conversions sur votre site.<br />
-Vous n’êtes pas convaincu(e) que les thèmes sont la bonne solution pour votre boutique en ligne ? Restez à l’écoute pour découvrir notre prochain article dans lequel nous interviewerons un développeur web. Il nous donnera son avis sur ce débat. Vous utilisez déjà un thème sur votre site ? Dites-nous pourquoi vous avez choisi d’opter pour un thème dans les commentaires ci-dessous !</p>
-<p><a href="http://addons.prestashop.com/fr/36_template-monster" target="_blank">À propos de Template Monster :</a><br />
-Template Monster est l’une des plus anciennes entreprises du secteur spécialisées dans la création de thèmes. Depuis le début de ses activités en 2002, ses équipes ont conçu plus de 50 000 modèles différents. Depuis 2010, elle a mis en vente plus de <a href="http://addons.prestashop.com/fr/36_template-monster" target="_blank">1 000 thèmes </a>pour PrestaShop.</p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/themes-vs-developpement-mesure-les-themes-populaires/">Thèmes vs développement sur mesure : pourquoi les thèmes sont si populaires</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/fr/themes-vs-developpement-mesure-les-themes-populaires/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
-		</item>
-		<item>
-		<title>20 fonctionnalités PrestaShop à découvrir</title>
-		<link>https://www.prestashop.com/blog/fr/20-fonctionnalites-prestashop-decouvrir/</link>
-		<comments>https://www.prestashop.com/blog/fr/20-fonctionnalites-prestashop-decouvrir/#comments</comments>
-		<pubDate>Thu, 16 Jul 2015 09:34:26 +0000</pubDate>
-		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
-				<category><![CDATA[Conseils E-commerce]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19144</guid>
-		<description><![CDATA[<p>Savez-vous que le logiciel PrestaShop propose plus de 300 fonctionnalités natives? Pour aider les utilisateurs de longue date et nouveaux e-commerçants à exploiter tout le potentiel de notre logiciel, nous vous présentons 20 fonctionnalités PrestaShop que vous ne connaissez (probablement) pas. Découvrez-les dans la suite de cet article ! Les fonctionnalités PrestaShop aident les e-commerçants [...]</p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/20-fonctionnalites-prestashop-decouvrir/">20 fonctionnalités PrestaShop à découvrir</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>Savez-vous que le logiciel PrestaShop propose plus de 300 fonctionnalités natives? Pour aider les utilisateurs de longue date et nouveaux e-commerçants à exploiter tout le potentiel de notre logiciel, nous vous présentons 20 fonctionnalités PrestaShop que vous ne connaissez (probablement) pas. Découvrez-les dans la suite de cet article !<br />
-<span id="more-19144"></span><br />
-Les fonctionnalités PrestaShop aident les e-commerçants à booster leurs ventes et à optimiser la gestion de leur activité. Nous vous présentons aujourd&rsquo;hui des fonctionnalités peu connues, classées selon les catégories suivantes : opérations, marketing et engagement client, fonctionnalités front office et optimisation de la boutique. Nous vous montrerons aussi comment les configurer. N&rsquo;oubliez pas que ces fonctionnalités ne sont disponibles qu&rsquo;à partir de la version 1.6.0.14 de PrestaShop.</p>
-<h2 style="color:#345c64">Opérations</h2>
-<p>Les opérations sont au cœur même de la boutique en ligne. Ces fonctionnalités vous aident à optimiser l&rsquo;interface de votre panneau d&rsquo;administration et vous permettent de choisir les notifications que vous recevez, pour gagner en efficacité. </p>
-<h4 style="color:#589ca9">1. Recevez une notification par e-mail pour toute nouvelle commande. </h4>
-<p style="font-style: italic">MODULES &gt; Modules &gt; Administration &gt; Email Alerts &gt; (Installer &gt;) Configurer &gt; Nouvelle commande : Oui &gt; Adresse e-mail : nom@votreboutique.com &gt; Sauvegarder</p>
-<h4 style="color:#589ca9">2. Changez le thème et la couleur de votre panneau d&rsquo;administration.</h4>
-<p style="font-style: italic">ADMINISTRATION &gt; Employés &gt; Nom de l&rsquo;employé &gt; Thème<br />
-Ou : Sélectionnez votre nom en haut à droite &gt; Mes préférences</p>
-<p>Choisir parmi :</p>
-<ol>
-<li>Par défaut : vert et gris</li>
-<li>Blue : bleu clair et bleu foncé</li>
-<li>Contrast : bleu clair et gris</li>
-<li>Flex : turquoise et gris</li>
-<li>Fruit : bleu foncé et gris</li>
-<li>Prune : violet et bleu foncé</li>
-</ol>
-<h4 style="color:#589ca9">3. Accédez rapidement à n&rsquo;importe quelle page Web depuis la barre de notifications.</h4>
-<p style="font-style: italic">Allez sur la page que vous souhaitez enregistrer &gt; Dans le menu Accès rapide à droite des notifications, cliquez sur « + Ajouter cette page à l&rsquo;Accès Rapide » &gt; Message de confirmation « Mise à jour réussie ». </p>
-<p>Vous pouvez maintenant accéder rapidement à cette page depuis le menu déroulant Accès rapide.</p>
-<h4 style="color:#589ca9">4. Déplacez votre menu en haut de votre site Web.</h4>
-<p style="font-style: italic">ADMINISTRATION &gt; Employés &gt; Cliquez sur le nom de l&rsquo;employé &gt; Orientation du menu principal du back-office : Vertical</p>
-<h4 style="color:#589ca9">5. Modifiez le format de la date et de l&rsquo;heure</h4>
-<p style="font-style: italic">LOCALISATION &gt; Langues &gt; Sélectionnez la langue à éditer &gt; Format de date et Format de date (complet) &gt; Suivez les instructions pour modifier le format de la date.</p>
-<h4 style="color:#589ca9">6. Accélérez les téléchargements groupés grâce à nos CSV d&rsquo;exemple.</h4>
-<p style="font-style: italic">PARAMÈTRES AVANCÉS &gt; Import CSV &gt; Télécharger des fichiers CSV d&rsquo;exemple</p>
-<p>Astuce : ces fichiers CSV sont délimités par des points-virgules.</p>
-<h4 style="color:#589ca9">7. Désactivez les notifications pour les nouvelles commandes à tout moment. </h4>
-<p>Vous en avez assez du compteur de nouvelles commandes qui s&rsquo;affiche sur votre tableau de bord ? Vous pouvez le désactiver à tout moment. </p>
-<p style="font-style: italic">ADMINISTRATION &gt; Préférences &gt; Notification &gt; Afficher les notifications pour les nouvelles commandes, clients, ou messages : Non.</p>
-<h4 style="color:#589ca9">8. Facilitez les renouvellements de commandes grâce aux listes de produits en rupture de stock ou bientôt épuisés.</h4>
-<p style="font-style: italic">STATISTIQUES &gt; Statistiques &gt; Évaluation du catalogue</p>
-<h2 style="color:#345c64">Fonctionnalités front office</h2>
-<h4 style="color:#589ca9">9. Protégez <a href="https://www.prestashop.com/blog/fr/guide-do-it-yourself-de-le-commerce-pour-de-parfaites-photos-de-produit/">les photos de vos produits</a> grâce à des filigranes.</h4>
-<p style="font-style: italic">MODULES &gt; Modules &gt; Administration &gt; Image Watermark &gt;</p>
-<p>Téléchargez votre filigrane au format GIF.<br />
-Définissez l&rsquo;opacité.<br />
-Indiquez son positionnement.<br />
-Sélectionnez les images auxquelles vous souhaitez appliquer le filigrane.</p>
-<h4 style="color:#589ca9">10. Téléchargez une image personnalisée pour un produit sans photo.</h4>
-<p style="font-style: italic">LOCALISATION &gt; Langues &gt; Sélectionnez la langue &gt; Image &laquo;&nbsp;Aucune Image&nbsp;&raquo; </p>
-<h4 style="color:#589ca9">11. Téléchargez des échantillons de couleur personnalisés pour montrer des détails ou des motifs. </h4>
-<p style="font-style: italic">CATALOGUE &gt; Attributs des produits &gt; Color &gt; Ajouter une valeur &gt; Nommez et téléchargez votre couleur personnalisée.</p>
-<h4 style="color:#589ca9">12.	Téléchargez une image personnalisée pour l&rsquo;emplacement de votre boutique sur la carte.</h4>
-<p style="font-style: italic">PRÉFÉRENCES &gt; Thèmes &gt; Thème actuel &gt; Icônes &gt; Téléchargez une nouvelle icône.</p>
-<p>Dimensions recommandées : 30 x 30 pixels<br />
-	Format de fichier : GIF</p>
-<h2 style="color:#345c64">Marketing et engagement client</h2>
-<h4 style="color:#589ca9">13. Modifiez votre <a href="https://www.prestashop.com/blog/fr/6-exemples-de-mail-marketing-qui-convertissent/">modèle d&rsquo;e-mail</a> de confirmation (et bien d&rsquo;autres encore !)</h4>
-<p style="font-style: italic">LOCALISATION &gt; Traductions &gt; Type de traduction : Traductions des modèles d&rsquo;e-mails &gt; Sélectionnez votre thème &gt; Choisissez votre langue</p>
-<h4 style="color:#589ca9">14. Adaptez vos communications à votre <a href="https://www.prestashop.com/blog/fr/6-exemples-de-mail-marketing-qui-convertissent/">public cible</a>. </h4>
-<p style="font-style: italic">LOCALISATION &gt; Traductions &gt; Type de traduction : Traductions du front office &gt; Sélectionnez votre thème &gt; Choisissez votre langue.</p>
-<h4 style="color:#589ca9">15. Récompensez l&rsquo;inscription à votre <a href="https://www.prestashop.com/blog/fr/8-conseils-pour-une-campagne-de-mailing-reussie/">newsletter</a> avec un bon de réduction. </h4>
-<p style="font-style: italic">MODULES &gt; Modules &gt; Fonctionnalités Front Office &gt; Bloc newsletter &gt; (Installer &gt;) Configurer &gt; Réduction de bienvenue : Nom du code promo</p>
-<p>Pour terminer l&rsquo;installation, vous devez d&rsquo;abord créer et activer le nouveau code de réduction. Assurez-vous que le code soit identique à celui qui figure dans les e-mails. </p>
-<p style="font-style: italic">PROMOTIONS &gt; Règles panier &gt; Ajouter une règle &gt; Suivez les instructions à l&rsquo;écran.</p>
-<h4 style="color:#589ca9">16. Modifiez les <a href="https://www.prestashop.com/blog/fr/comment-trouver-les-bons-mots-cles-pour-le-seo-de-votre-site-ecommerce-partie-12/">méta-informations de votre page d&rsquo;accueil pour améliorer votre SEO</a>. </h4>
-<p style="font-style: italic">PRÉFÉRENCES &gt; SEO &amp; URLs &gt; Index</p>
-<p>Ajoutez les méta-informations et le titre de la page pour améliorer votre SEO avec ces mots clés.</p>
-<h2 style="color:#345c64">Optimisation de la boutique</h2>
-<h4 style="color:#589ca9">17. Visionnez la liste des <a href="https://www.prestashop.com/blog/fr/4-astuces-essentielles-pour-ameliorer-le-moteur-de-recherche-de-votre-site/">recherches effectuées sur votre site</a> par vos clients.</h4>
-<p style="font-style: italic">STATISTIQUES &gt; Statistiques&gt; Recherches de la boutique</p>
-<h4 style="color:#589ca9">18.	Accédez au contenu des <a href="https://www.prestashop.com/blog/fr/6-solutions-simples-pour-reduire-le-taux-de-paniers-abandonnes/">paniers abandonnés</a>.</h4>
-<p style="font-style: italic">CLIENTS &gt; Paniers &gt; Cliquez sur n&rsquo;importe quel panier pour plus d&rsquo;informations.</p>
-<h4 style="color:#589ca9">19. Prévoyez les ventes directement depuis le tableau de bord.</h4>
-<p style="font-style: italic">TABLEAU DE BORD &gt; Prévisions &gt; Cliquez sur l&rsquo;icône de configuration.</p>
-<p>Renseignez vos prévisions de ventes. Le graphique sera mis à jour automatiquement après chaque vente et montrera votre performance par rapport à vos prévisions.</p>
-<h4 style="color:#589ca9">20. <a href="https://www.prestashop.com/blog/fr/comment-embaucher-votre-premier-employe/">Vous travaillez à plusieurs</a> ? Attribuez un identifiant unique à chaque membre de votre équipe.</h4>
-<p>Assurez-vous que chaque nouvel employé puisse accéder aux fonctionnalités qui lui seront utiles : nous avons par exemple préconfiguré des permissions pour les nouveaux arrivants en ventes, en traduction et en expédition. </p>
-<p style="font-style: italic">ADMINISTRATION &gt; Employés &gt; Ajouter un employé &gt; Renseignez les informations et définissez un profil de permission.</p>
-<p>Quelles fonctionnalités avez-vous découvertes ? En connaissiez-vous déjà quelques-unes ? Quelles autres fonctionnalités secrètes ne figurent pas dans ce Top 20 ? Dites-le-nous dans les commentaires ci-dessous. Vous ne connaissez pas PrestaShop ? Découvrez toutes les <a href="https://www.prestashop.com/fr/templates-ecommerce">fonctionnalités de PrestaShop</a>. </p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/20-fonctionnalites-prestashop-decouvrir/">20 fonctionnalités PrestaShop à découvrir</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/fr/20-fonctionnalites-prestashop-decouvrir/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Comment se lancer dans l’A/B testing avec un trafic faible ?</title>
-		<link>https://www.prestashop.com/blog/fr/comment-se-lancer-lab-testing-trafic-faible/</link>
-		<comments>https://www.prestashop.com/blog/fr/comment-se-lancer-lab-testing-trafic-faible/#comments</comments>
-		<pubDate>Thu, 09 Jul 2015 13:54:46 +0000</pubDate>
-		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
-				<category><![CDATA[Conseils E-commerce]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19131</guid>
-		<description><![CDATA[<p>Aujourd’hui nous sommes heureux de présenter un article signé Alix de Sagazan, cofondatrice d&#8217;AB Tasty, le leader de l&#8217;A/B Testing et de la personnalisation. Elle nous explique comment les sites affichant un trafic faible peuvent tirer profit de l’A/B testingIl paraît impensable aujourd’hui d’optimiser son taux de conversion sur son site sans avoir recours à [...]</p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-se-lancer-lab-testing-trafic-faible/">Comment se lancer dans l’A/B testing avec un trafic faible ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>Aujourd’hui nous sommes heureux de présenter un article signé Alix de Sagazan, cofondatrice d&rsquo;AB Tasty, le leader de l&rsquo;A/B Testing et de la personnalisation. Elle nous explique comment les sites affichant un trafic faible peuvent tirer profit de l’A/B testingIl paraît impensable aujourd’hui d’optimiser son taux de conversion sur son site sans avoir recours à l’A/B testing.</p>
-<p>Pourtant, les conditions requises dans les bonnes pratiques pour lancer une campagne de tests efficace peuvent parfois laisser penser que seuls les sites à fort trafic sont concernés. En effet, si le nombre de visiteurs et de conversions restent des indicateurs déterminants, faut-il alors en déduire qu’avoir recours à l’A/B Testing s’avèrera inopportun si votre trafic est trop bas ?<br />
-<span id="more-19131"></span><br />
-Heureusement non ! Il est possible de tirer le meilleur parti d’une campagne d’A/B Tests même avec un faible trafic. Seule contrainte pour ce type de site : la fiabilité statistique. Pour qu’un test soit reconnu comme fiable, l’indice de fiabilité statistique doit dépasser les 95%. En deçà de ce niveau, la fiabilité des données n’est pas avérée et toute conclusion hâtive qui en découlerait serait alors risquée. La seule contrainte existante est donc d’atteindre ce seuil. Le temps nécessaire pour l’atteindre peut varier en fonction du trafic sur le site, du nombre de pages testées, du taux de conversion initial de l’objectif testé et de l’impact des modifications apportées. Seule certitude : plus le trafic est faible, plus l’attente sera longue !</p>
-<p>Quelques méthodes existent cependant pour que l’attente vous paraisse moins douloureuse.</p>
-<h2 style="color: #498edc">Tirez parti de l’existant !</h2>
-<p>On considère qu’un test devient pertinent à partir de 5000 visiteurs uniques et de 100 conversions enregistrées par variation. Focalisez-vous donc dans un premier temps sur les pages présentant le trafic le plus élevé et n’hésitez pas à développer ce trafic en adressant par exemple une campagne emailing ciblée à vos visiteurs les incitant à se rendre sur ces pages. Autre moyen complémentaire d’améliorer votre trafic sur ces mêmes pages, avoir recours à la publicité basée sur un modèle à la performance (liens sponsorisées Google Adwords, Facebook et Twitter Ads, news sponsorisées linkedin), un investissement financier certes mais la certitude de générer du trafic rapidement et un excellent moyen d’obtenir des résultats statistiques fiables en moins de temps. Mais, n’attendez pas pour autant que votre trafic soit conséquent pour agir ! Accompagnez d’ores et déjà vos visiteurs dans le tunnel de conversion en leur adressant des messages marketing ciblés et personnalisés (messages promotionnel, compte à rebours, pop in de rétention, réactivation utilisateur, élément fixe au scroll…).</p>
-<h4 style="color: #498edc">Pousser les internautes à agir rapidement !</h4>
-<p><img class="aligncenter size-large wp-image-20349" alt="compteur" src="https://www.prestashop.com/blog/fr/files/2015/07/compteur-1024x514.jpg" width="700" height="351" /></p>
-<p>La perspective de rater une bonne affaire est un levier puissant pour favoriser le passage à l’acte. La mise en place d’un compte à rebours promotionnel dynamique crée ce sentiment d’urgence et de rareté.</p>
-<h2 style="color: #498edc">Ne vous dispersez pas !</h2>
-<p>Plus vous définissez de variations, plus vous segmentez votre trafic et plus le temps imparti pour obtenir un échantillon fiable sur chaque variation augmente. Une règle d’or s’impose : pas plus de deux variations par rapport à l’original. Commencez par tester une variation. Si cette dernière surperforme, lancez un second test et comparez ses performances par rapport à la première variation. Mais attention à ne pas céder à la tentation des tests multivariés (MVT). Votre trafic ne s’y prête pas.</p>
-<h4 style="color: #498edc">Favorisez l’engagement dans le tunnel de conversion en reformulant les call-to-action.</h4>
-<p><img class="aligncenter size-full wp-image-20352" alt="wording" src="https://www.prestashop.com/blog/fr/files/2015/07/wording.png" width="668" height="231" /></p>
-<p>Le remplacement d’un verbe très impliquant, et intervenant de manière trop précoce, par un libellé moins directif incite à passer à l’étape suivante.</p>
-<p>Résultat de l’exemple : augmentation du taux de clics de 92% et un impact mécanique sur le taux de conversion globale de 13%.</p>
-<h2 style="color: #498edc">Repensez vos priorités !</h2>
-<p>L’objectif d’un test A/B se résume souvent à l’augmentation du nombre de conversions. Mais comment définir une conversion ? S’agit-il nécessairement d’une vente ? Dans le cadre d’un test réalisé avec peu de trafic, définissez plutôt un critère lié directement à votre critère principal mais survenant plus souvent. Aussi, plutôt que de focaliser sur une vente, ciblez par exemple le taux d’ajout au panier ou le nombre de vues sur une fiche produit. Ces critères de conversions sont toujours reliés directement à votre critère principal (ici la vente), mais sont susceptibles de survenir plus souvent, ce qui vous apportera des résultats plus rapidement.</p>
-<h4 style="color: #498edc">Augmentez le taux d’accès aux pages produits</h4>
-<p><img class="aligncenter size-full wp-image-20351" alt="image-product" src="https://www.prestashop.com/blog/fr/files/2015/07/image-product.png" width="732" height="229" /></p>
-<p>La mise en situation du produit dans son contexte incite les internautes à découvrir les différents produits associés et favorise le cross-selling</p>
-<p>Résultat de l’exemple : amélioration de la consultation des pages produits de 10% et des ventes de 15%</p>
-<h2 style="color: #498edc">Voyez grand !</h2>
-<p>Même avec peu de trafic, soyez ambitieux ! Testez des changements susceptibles d’impacter fortement les conversions, plutôt que de vous focaliser sur des détails à la recherche d’une augmentation non significative au regard de votre faible trafic. N’hésitez pas à tester deux versions de votre page complètement différentes. Avec une solution d’A/B Testing, vous changez la position des éléments, modifiez des intitulés de rubrique, et créez ainsi une page au design entièrement différent pour vous en servir comme variation. Les internautes seront redirigés vers cette page de façon transparente. Votre outil d’A/B Test se chargera de gérer la répartition du trafic et de collecter des statistiques pour chaque version, selon les paramètres que vous avez spécifiés, comme pour un test classique.</p>
-<h4 style="color: #498edc">Captez l’attention des visiteurs dès l’arrivée sur le site !</h4>
-<p><img class="aligncenter size-full wp-image-20350" alt="form" src="https://www.prestashop.com/blog/fr/files/2015/07/form.png" width="886" height="273" /></p>
-<p>La réduction de la quantité d’informations affichées ainsi que des éléments visuels plus accrocheurs valorisent le call-to-action menant au formulaire d’inscription.</p>
-<p>Résultat de l’exemple : augmentation de 14% du taux d’inscription des nouveaux visiteurs et de 3,2% du taux de conversion global du site</p>
-<h2 style="color: #498edc">Conclusion</h2>
-<p>Avoir peu de trafic sur votre site ne vous condamne donc pas à abandonner l’AB Testing. Bien au contraire, mettre en place une campagne d’AB Test vous imposera d’adopter une démarche pragmatique et structurée pour tirer le meilleur parti de votre trafic actuel.</p>
-<h4 style="color: #498edc">A propos d&rsquo;AB Tasty</h4>
-<p>AB Tasty est la solution européenne leader en optimisation des conversions on-site et in-app permettant, à tout un chacun, de tester l’efficacité de ses idées d’optimisation et de délivrer des expériences personnalisées à ses utilisateurs pour favoriser la conversion. Proposée en mode SaaS (software as a service), la solution rend autonomes les équipes marketing qui appliquent, elles-mêmes, leurs idées d’optimisation sur leur site web, sites mobiles et applications natives, et en mesurent les gains, sans avoir à mobiliser de ressources techniques.</p>
-<p>Créé il y a 5 ans, AB Tasty compte 40 collaborateurs et accompagne aujourd&rsquo;hui plus de 200 clients grands comptes (sites ecommerce, sites media, sites de génération de leads).</p>
-<p>AB Tasty fait partie des 27 entreprises les plus innovantes,en hyper croissance, récompensées par le Pass French Tech.</p>
-<p><a href="http://www.abtasty.com/" target="_blank">www.abtasty.com</a></p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-se-lancer-lab-testing-trafic-faible/">Comment se lancer dans l’A/B testing avec un trafic faible ?</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/fr/comment-se-lancer-lab-testing-trafic-faible/feed/</wfw:commentRss>
-		<slash:comments>3</slash:comments>
 		</item>
 	</channel>
 </rss>
